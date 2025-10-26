@@ -1,37 +1,35 @@
 ---
-title: "Shravan Kumar Kilaparthi — MBA Portfolio"
-author: "Shravan Kumar Kilaparthi"
-format:
-  html:
-    theme: flatly       # try: cosmo, litera, simplex, zephyr
-    toc: false
-    smooth-scroll: true
-    page-layout: full
-    css: styles.css
-    anchor-sections: true
-lang: en
-execute:
-  echo: false
-  warning: false
-  message: false
+title: "MBA Portfolio"
+page-layout: full
 ---
 ```{=html}
-<!-- HERO -->
 <div class="hero">
   <div>
     <h1>Shravan Kumar Kilaparthi</h1>
     <p>MBA Candidate — Finance & Accounting · University Canada West</p>
-    <p>Vancouver, BC · <a href="mailto:Kilaparthishravn@gmail.com">Kilaparthishravn@gmail.com</a> · 
-       <a href="https://www.linkedin.com/in/shravan-kumar-9b1096141/">LinkedIn</a></p>
+    <p>Vancouver, BC · 
+      <a href="mailto:Kilaparthishravn@gmail.com">Kilaparthishravn@gmail.com</a> · 
+      <a href="https://www.linkedin.com/in/shravan-kumar-9b1096141/">LinkedIn</a>
+    </p>
+
+    <!-- Resume & Contact Buttons -->
+    <div class="button-row">
+      <a class="btn" href="Shravan_Kilaparthi_Resume.pdf" target="_blank">📄 Download Résumé</a>
+      <a class="btn secondary" href="mailto:Kilaparthishravn@gmail.com">✉️ Contact Me</a>
+    </div>
   </div>
+
   <div>
-    <img src="headshot.jpg" alt="Professional headshot of Shravan Kumar Kilaparthi" class="headshot">
+    <img src="headshot.jpg" alt="Professional headshot of Shravan Kumar Kilaparthi" class="headshot" loading="lazy">
   </div>
 </div>
 ```
 
 ## About
-I am an MBA student specializing in Finance & Accounting at University Canada West, with 6+ years of experience in accounting operations, reconciliations, and financial reporting. I’ve worked with global organizations including VMware, Urban Ladder, and Genpact—improving process efficiency, vendor management, and documentation accuracy. I enjoy using analytics and automation to enhance financial transparency and decision-making. I’m seeking roles in finance/accounting where precision and process improvement are key.
+
+Numbers don’t have to be chaotic. I design calm, reliable finance workflows—clear reconciliations, tidy documentation, and reporting you can trust. I’m an MBA candidate at UCW with hands-on experience in busy finance teams, and I enjoy the mix of analysis, operations, and practical problem-solving.
+
+Right now I’m looking for roles where I can keep the books clean, the process simple, and the team moving.
 
 ## Education
 **MBA (Finance & Accounting)** — University Canada West, Vancouver *(Expected 2026)*  

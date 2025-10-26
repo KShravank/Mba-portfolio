@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Shravan Kumar Kilaparthi"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Appendix
+        href: appendix-llm.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shravan-kumar-9b1096141/
+      - icon: envelope
+        href: mailto:Kilaparthishravn@gmail.com
+
+format:
+  html:
+    theme: flatly
+    toc: false
+    anchor-sections: true
+    smooth-scroll: true
+    css: styles.css
+
+metadata:
+  author: "Shravan Kumar Kilaparthi"
