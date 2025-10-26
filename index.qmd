@@ -1,0 +1,73 @@
+---
+title: "Shravan Kumar Kilaparthi — MBA Portfolio"
+author: "Shravan Kumar Kilaparthi"
+format:
+  html:
+    theme: flatly       # try: cosmo, litera, simplex, zephyr
+    toc: false
+    smooth-scroll: true
+    page-layout: full
+    css: styles.css
+    anchor-sections: true
+lang: en
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+```{=html}
+<!-- HERO -->
+<div class="hero">
+  <div>
+    <h1>Shravan Kumar Kilaparthi</h1>
+    <p>MBA Candidate — Finance & Accounting · University Canada West</p>
+    <p>Vancouver, BC · <a href="mailto:Kilaparthishravn@gmail.com">Kilaparthishravn@gmail.com</a> · 
+       <a href="https://www.linkedin.com/in/shravan-kumar-9b1096141/">LinkedIn</a></p>
+  </div>
+  <div>
+    <img src="headshot.jpg" alt="Professional headshot of Shravan Kumar Kilaparthi" class="headshot">
+  </div>
+</div>
+```
+
+## About
+I am an MBA student specializing in Finance & Accounting at University Canada West, with 6+ years of experience in accounting operations, reconciliations, and financial reporting. I’ve worked with global organizations including VMware, Urban Ladder, and Genpact—improving process efficiency, vendor management, and documentation accuracy. I enjoy using analytics and automation to enhance financial transparency and decision-making. I’m seeking roles in finance/accounting where precision and process improvement are key.
+
+## Education
+**MBA (Finance & Accounting)** — University Canada West, Vancouver *(Expected 2026)*  
+**BBM (Accounting & Finance)** — Andhra University, India
+
+## Experience Highlights
+**Business Analyst — VMware India** *(2022–2024)*  
+- Performed end-to-end bank reconciliations and variance analysis supporting accurate financial reporting.  
+- Partnered with finance/legal to streamline documentation workflows and audit compliance.
+
+**After-Sales Analyst — Urban Ladder** *(2018–2020)*  
+- Processed invoice corrections/refunds; maintained 99%+ accuracy in financial documentation.  
+- Managed vendor coordination and improved turnaround times.
+
+**Analyst — Genpact** *(2016–2018)*  
+- Processed high-volume financial transactions and ensured regulatory compliance.  
+- Supported KYC verification and onboarding.
+
+## Projects
+**Finance Process Optimization (Academic/Practicum)** — mapped AP/AR workflow, defined controls, and created KPI dashboard for reconciliation timing and exception rates.  
+**Quarto Reporting** — built clean, reproducible PDF/HTML reports with citations and appendices.
+
+## Key Skills
+**Accounting & Finance:** Bank Reconciliation, AP, Financial Reporting  
+**Tools:** SAP/Oracle ERP, Advanced Excel, Google Workspace  
+**Professional:** Communication, Stakeholder Management, Process Improvement
+
+## Contact
+- Email: [Kilaparthishravn@gmail.com](mailto:Kilaparthishravn@gmail.com)
+- LinkedIn: <https://www.linkedin.com/in/shravan-kumar-9b1096141/>
+<p><a href="appendix-llm.html">Appendix — LLM Draft & Commentary</a></p>
+
+<footer class="footer">
+  © {{< meta author >}} — <span id="year"></span>
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>
