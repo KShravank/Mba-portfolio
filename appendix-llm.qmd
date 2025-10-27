@@ -1,6 +1,27 @@
 ---
-title: "Appendix — LLM Draft & Commentary"
+title: "Application of AI in Business – Individual Assignment 1"
+subtitle: "MBA Portfolio Development"
+author:
+  - name: "Shravan Kumar Kilaparthi"
+    affiliation: "University Canada West"
+course: "BUSI 654 — Application of AI in Business"
+instructor: "Dr. Davood Wadi"
+date: "October 26, 2025"
+format:
+  pdf:
+    documentclass: apa7
+    classoption: stu
+    papersize: letter
+    fontsize: 12pt
+    keep-tex: true
 ---
+# Introduction
+
+This appendix accompanies my one-page MBA Portfolio website developed using Quarto and Markdown. The portfolio demonstrates how AI tools (like ChatGPT) can assist in professional content creation and digital publishing, followed by personal revisions and fact-checking to ensure authenticity and accuracy.
+
+The appendix includes:
+- The LLM-generated outline and text (verbatim).
+- A brief commentary on the revisions made and why.
 # Appendix — LLM Draft & Commentary
 
 **Prompt used:**  
@@ -15,3 +36,12 @@ title: "Appendix — LLM Draft & Commentary"
 - Replaced generic skills with specific tools I use.
 - Adjusted tone to be more concise and action-oriented.
 - Ensured no claims are exaggerated; all facts are accurate.
+
+---
+## References
+
+OpenAI. (2025). *ChatGPT (GPT-5)* [Large language model]. https://chat.openai.com  
+
+Posit. (2025). *Quarto documentation.* https://quarto.org/docs  
+
+American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).  
