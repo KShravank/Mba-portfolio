@@ -7,286 +7,6 @@
     "text": "Excel (Advanced): Lookups, pivot tables, dashboards, charts, structured references, and data cleaning.\n\nGoogle Sheets: Collaborative reporting, shared dashboards, and cross-team reviews.\n\nData Analysis: KPI tracking, variance analysis, performance trends, and forecasting support.\n\nAI & Automation Tools: Prompt engineering, LLM-assisted drafting (with human revision), and Quarto for reproducible reporting.\n\nQuarto & GitHub: Building multi-page professional sites, documentation, and version control."
   },
   {
-    "objectID": "skills.html#technical-analytical-tools",
-    "href": "skills.html#technical-analytical-tools",
-    "title": "Skills & Tools",
-    "section": "",
-    "text": "Excel & Google Sheets: formulas, lookups, pivot tables, pivot charts, dashboards for QBRs, account performance, and project-level reporting.\n\nReporting & Presentation: preparing quarterly business review (QBR) summaries, account health reports, and KPI dashboards (revenue, refunds, usage, retention).\n\nEnterprise Tools: experience working with CRM- and ERP-based workflows in account management, finance operations, and project reporting environments.\n\nQuarto & GitHub: creating reproducible documents, portfolio websites, and structured analytical reports for academic and professional use."
-  },
-  {
-    "objectID": "skills.html#finance-billing-operations-skills",
-    "href": "skills.html#finance-billing-operations-skills",
-    "title": "Skills & Tools",
-    "section": "Finance, Billing & Operations Skills",
-    "text": "Finance, Billing & Operations Skills\n\nWorking with billing, revenue, and reconciliation data at an account or customer level.\n\nPreparing and analyzing quarterly business review (QBR) packages using structured datasets.\n\nHelping project and account managers track quarterly KPIs such as:\n\nrevenue trends\n\nusage and consumption trends\n\nrefunds and credit adjustments\n\nrenewal forecasts\n\n\nDocumenting processes and maintaining clarity in communication between finance, project operations, and customer-facing teams."
-  },
-  {
-    "objectID": "skills.html#business-interpersonal-skills",
-    "href": "skills.html#business-interpersonal-skills",
-    "title": "Skills & Tools",
-    "section": "Business & Interpersonal Skills",
-    "text": "Business & Interpersonal Skills\n\nClear written communication in reports, emails, and presentations.\n\nCollaboration with cross-functional teams (project management, account management, finance).\n\nProblem-solving in environments with shifting priorities and multiple stakeholders.\n\nAdaptability and continuous learning — including transitioning into a new academic and cultural setting in Canada."
-  },
-  {
-    "objectID": "skills.html#in-progress-learning",
-    "href": "skills.html#in-progress-learning",
-    "title": "Skills & Tools",
-    "section": "In Progress / Learning",
-    "text": "In Progress / Learning\n\nBuilding deeper skills in AI for Business, including automation, evaluation, and ethical use of LLMs.\n\nStrengthening data visualization using Power BI (in progress).\n\nExploring advanced Excel modelling, KPI frameworks, and supply chain analytics.\n\nPracticing Quarto development, including custom CSS and structured documentation."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects & Case Studies",
-    "section": "",
-    "text": "These projects bring together my experience in business analytics, AI in operations, and account management.\nThey include both MBA coursework and real client-facing work from my Business Analyst role.\n\n\n\nAcademic · AI & Supply Chain\n\n\nAI in Supply Chain Evaluation (BUSI 654)\n\n\nRole: Lead Analyst & Author • Year: 2025\n\n\nEvaluated four large language models—GPT-4, Claude, Gemini, and LLaMA— on ten advanced questions in operations and supply chain management. Topics included demand forecasting in volatile markets, bullwhip mitigation, supplier risk, blockchain transparency, and ethical participation of Indigenous suppliers.\n\n\n\nDesigned a structured evaluation rubric (accuracy, clarity, ethical sensitivity, business value).\n\n\nBuilt an Excel analysis dashboard with bar and radar charts comparing LLMs to human answers.\n\n\nIdentified each model’s strengths, biases, and blind spots in real business decision scenarios.\n\n\nProduced a full academic report with APA citations and an appendix of LLM drafts and human edits.\n\n\n\nLLM Evaluation Supply Chain Ethics Excel Analytics\n\n\n\n\nAcademic · Web & Portfolio\n\n\nMulti-Page MBA Portfolio Website (Quarto & GitHub Pages)\n\n\nRole: Designer & Developer • Year: 2025\n\n\nDesigned and developed this multi-page MBA portfolio website using Quarto and GitHub Pages. The site showcases my profile, résumé, project work, leadership, and a transparent appendix of LLM-assisted drafts and revisions.\n\n\n\nImplemented a clear navigation structure: Home, Resume, Projects, Skills, Leadership, Contact, Appendix.\n\n\nUsed Markdown + custom CSS to create a responsive hero section, buttons, and cards.\n\n\nIntegrated a downloadable PDF résumé, LinkedIn link, and email contact workflow.\n\n\nDocumented how LLMs were used for brainstorming and drafting, with final content fact-checked and edited by me.\n\n\n\nQuarto GitHub Pages Web Design AI-Assisted Writing\n\n\n\n\nProfessional · Analytics & Reporting\n\n\nQBR Analytics & Dashboard Reporting (VMware)\n\n\nRole: Business Analyst • Years: 2022–2024\n\n\nSupported enterprise accounts by preparing Quarterly Business Review (QBR) packs for global customers. Helped project and account managers understand revenue, usage, renewals, refunds, and operational risks.\n\n\n\nBuilt and maintained Excel dashboards tracking KPIs, account health, and performance trends.\n\n\nSummarized revenue and usage trends into story-driven QBR decks for leadership and clients.\n\n\nCollaborated with project management and account management teams to align definitions and metrics.\n\n\nHighlighted variance drivers and risks, supporting better customer and renewal conversations.\n\n\n\nQBR Reporting Dashboards Client Communication\n\n\n\n\nProfessional · Finance & Operations\n\n\nBilling Variance & Reconciliation Analysis (VMware)\n\n\nRole: Business Analyst • Years: 2022–2024\n\n\nWorked with finance, account managers, and project teams to reconcile billing and revenue data across multiple internal systems, ensuring accurate reporting for large enterprise customers.\n\n\n\nReconciled billing, refunds, and credits so that QBR and internal reports matched finance records.\n\n\nInvestigated and explained billing variances and usage differences across systems.\n\n\nProduced clear written summaries for leadership and account teams highlighting trends and root causes.\n\n\nImproved consistency between operational KPIs and financial numbers used in decision-making.\n\n\n\nReconciliation Financial Accuracy Operations"
-  },
-  {
-    "objectID": "projects.html#application-of-ai-in-business-supply-chain-operations",
-    "href": "projects.html#application-of-ai-in-business-supply-chain-operations",
-    "title": "Projects & Case Studies",
-    "section": "",
-    "text": "As part of my MBA coursework and the individual assignment, I analyzed how AI and large language models (LLMs) can support decision-making in supply chain and operations.\nFocus areas:\n\nUsing AI and predictive analytics to improve demand forecasting in volatile environments\n\nReducing the bullwhip effect through better information sharing and data-driven insights\n\nSupporting supplier risk assessment and sustainability decisions with AI-driven analysis\n\nMy contribution: designing the questions and scenarios, interpreting LLM outputs, and connecting them to real operational challenges and decision-making in modern supply chains."
-  },
-  {
-    "objectID": "projects.html#account-performance-dashboards-and-qbr-support-vmware-professional",
-    "href": "projects.html#account-performance-dashboards-and-qbr-support-vmware-professional",
-    "title": "Projects & Case Studies",
-    "section": "2. Account Performance Dashboards and QBR Support – VMware (Professional)",
-    "text": "2. Account Performance Dashboards and QBR Support – VMware (Professional)\nIn my role as a Business Analyst at VMware India, I supported account management and project teams by structuring data into meaningful reports and dashboards.\n\nHelped build Excel-based dashboards to show account health (revenue, billing status, ticket trends, and usage indicators).\nSupported the preparation of quarterly business review (QBR) decks by summarizing performance highlights, risks, and opportunities.\nAssisted with billing and reconciliation checks at the account level to ensure that what was reported matched what was actually billed.\n\nOutcome: improved the visibility of key KPIs for account managers and project leaders, making QBRs more data-driven and easier to understand for stakeholders."
-  },
-  {
-    "objectID": "projects.html#after-sales-and-billing-operations-urban-ladder",
-    "href": "projects.html#after-sales-and-billing-operations-urban-ladder",
-    "title": "Projects & Case Studies",
-    "section": "3. After-Sales and Billing Operations – Urban Ladder",
-    "text": "3. After-Sales and Billing Operations – Urban Ladder\nIn this role, I worked on the operational side of orders, billing, and customer service.\n\nTracked and resolved billing inconsistencies, refunds, and adjustments for customer accounts.\nCoordinated with logistics and warehouse teams to correct issues related to deliveries, returns, and cancellations.\nContributed to simple operational reports that helped the team monitor service levels and identify recurring problem areas."
-  },
-  {
-    "objectID": "projects.html#mba-academic-project-digital-eco-themed-business-concept",
-    "href": "projects.html#mba-academic-project-digital-eco-themed-business-concept",
-    "title": "Projects & Case Studies",
-    "section": "4. MBA Academic Project – Digital / Eco-Themed Business Concept",
-    "text": "4. MBA Academic Project – Digital / Eco-Themed Business Concept\nAs part of an MBA group project, I contributed to building a digital-focused, eco-themed business concept.\n\nHelped outline the business model, target segments, and digital touchpoints.\nSupported basic financial assumptions and scenario analysis.\nCo-wrote sections of the final report and contributed to the presentation."
-  },
-  {
-    "objectID": "projects.html#portfolio-website-with-quarto-github-pages",
-    "href": "projects.html#portfolio-website-with-quarto-github-pages",
-    "title": "Projects & Case Studies",
-    "section": "5. Portfolio Website with Quarto & GitHub Pages",
-    "text": "5. Portfolio Website with Quarto & GitHub Pages\nThis website is itself a project in digital publishing and professional branding.\n\nBuilt with Quarto and Markdown, using GitHub Pages for hosting.\nStructured the site into multiple pages (Home, Resume, Projects, Skills, Leadership, Contact).\nIntegrated a downloadable resume, headshot, and project summaries.\n\nThis project demonstrates my ability to learn new tools, organize information clearly, and present my profile in a professional, accessible format."
-  },
-  {
-    "objectID": "Reflection.html",
-    "href": "Reflection.html",
-    "title": "Shravan Kumar Kilaparthi",
-    "section": "",
-    "text": "title: Reflection- Using LI,LLMs in My MBA portfolio Website. page-layout: full\nThe use of large language models (LLMs) in this assignment developed over the time of this assignment in the form of straight-forward drafting assistance rather than a more deliberate cooperation. Initially, I mainly used the model to work out the structure that my portfolio would have and to come up with rough copies of different pages like the Home and Skills pages of my portfolio. The LLM particularly proved useful in bringing disjointed ideas in a coherent outline and proposing headings, phrases and transitions that I could edit.\nThe more pages I added the more critical and selective I became with my use of AI-generated text. I also understood that when direct copying of the drafts was made, the site would be generic and will not be representative of my real life experience as a Business Analyst who is dealing with QBRs, dashboards and operations reporting. Rather, I began using the LLM output in a starting point. On each page, I posed three questions: “Is this really true?”, “Do I really sound like this?”, and, would I be comfortable making this description before a job interviewer? It was no in the initial cases on many occasions, compelling me to revise, cut and rewrite.\nAnother lesson was the one of actuality and proper application. I ensured that no sensitive information of the company was exchanged with the model and that samples were of high level or anonymised. I have also made it clear through the appendix where I used the LLMs and how I edited their drafts. This openness is important to me as it demonstrates that the site is not fancying itself as being purely human work, but is not placebl-ing AI either.\nAll in all, the development of a design of a multi-page website with the assistance of LLM enhanced my technical and reflective abilities. Technologically, I was taught to work with various, .qmd files, navigation, and GitHub Pages hosting. Reflectively, I have acquired a better understanding of my own voice and professional narrative through editing and at times disagreeing with the model. In the future, I will consider LLMs as facilitative tools mainly when brainstorming and drafting the initial text, yet I will keep up to the office hours to adopt my own judgment in making sure that the final product is accurate, responsible, as well as in line with my identity."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "MBA candidate at University Canada West with experience as a Business Analyst supporting enterprise accounts in data-driven reporting, QBR preparation, and cross-functional coordination.\nSkilled in Excel dashboards, KPI reporting, variance analysis, and structured communication with project managers, account managers, and finance teams.\nCurrently expanding capabilities in AI for business, digital workflows, and supply chain analytics."
-  },
-  {
-    "objectID": "resume.html#business-analyst-vmware-india",
-    "href": "resume.html#business-analyst-vmware-india",
-    "title": "Resume",
-    "section": "Business Analyst – VMware India",
-    "text": "Business Analyst – VMware India\n2022–2024\n\nPrepared Quarterly Business Review (QBR) decks summarizing revenue, contract performance, usage metrics, refunds, renewals, risk items, and client-facing commentary.\nBuilt and maintained Excel dashboards for project/account managers to monitor performance trends and operational metrics.\nCoordinated with project management, account management, and finance teams to reconcile data across multiple systems into a consistent performance view.\nIdentified variance drivers and prepared insights for leadership reviews and customer meetings.\nSupported forecasting and account health analysis using structured data summaries."
-  },
-  {
-    "objectID": "resume.html#operations-analyst-urban-ladder-after-sales-support",
-    "href": "resume.html#operations-analyst-urban-ladder-after-sales-support",
-    "title": "Resume",
-    "section": "Operations Analyst – Urban Ladder (After-Sales / Support)",
-    "text": "Operations Analyst – Urban Ladder (After-Sales / Support)\n2018–2020\n\nMonitored post-sales operations KPIs including delivery SLAs, refunds, escalations, and service tickets.\nWorked with cross-functional teams to resolve delivery bottlenecks and operational issues affecting customer satisfaction.\nPrepared weekly and monthly performance dashboards for operational leadership.\nContributed to workflow improvements in customer support and after-sales coordination."
-  },
-  {
-    "objectID": "Appendix-llm-website.html",
-    "href": "Appendix-llm-website.html",
-    "title": "Appendix – LLM Drafts & Revisions",
-    "section": "",
-    "text": "LLM-generated draft (ChatGPT / GPT-4).\nPrompt: “Brainstorm a multi-page MBA portfolio website with at least four sections…”\n\n(Paste the site map the model gave you.)"
-  },
-  {
-    "objectID": "Appendix-llm-website.html#site-map-section-brainstorm-llm-assisted",
-    "href": "Appendix-llm-website.html#site-map-section-brainstorm-llm-assisted",
-    "title": "Appendix – LLM Drafts & Revisions",
-    "section": "",
-    "text": "LLM-generated draft (ChatGPT / GPT-4).\nPrompt: “Brainstorm a multi-page MBA portfolio website with at least four sections…”\n\n(Paste the site map the model gave you.)"
-  },
-  {
-    "objectID": "Appendix-llm-website.html#example-draft-vs-final-home-page",
-    "href": "Appendix-llm-website.html#example-draft-vs-final-home-page",
-    "title": "Appendix – LLM Drafts & Revisions",
-    "section": "Example Draft vs Final – Home Page",
-    "text": "Example Draft vs Final – Home Page\nLLM Draft (excerpt):\n\n(Paste 1–2 short paragraphs of the original LLM text.)\n\nMy Revisions:\n\nChanged the tone to sound more like my real voice.\n\nReplaced generic phrases with specific details about QBRs, dashboards, and operations work.\n\nRemoved any claims that were not fully accurate.\n\nChecked that all references to tools, courses, and roles were correct."
-  },
-  {
-    "objectID": "Appendix-llm-website.html#example-draft-vs-final-skills-page",
-    "href": "Appendix-llm-website.html#example-draft-vs-final-skills-page",
-    "title": "Appendix – LLM Drafts & Revisions",
-    "section": "Example Draft vs Final – Skills Page",
-    "text": "Example Draft vs Final – Skills Page\nRepeat the same pattern:\n\nShort LLM excerpt\n\nBullet list of what you changed and why (accuracy, ethics, clarity, avoiding exaggeration)"
-  },
-  {
-    "objectID": "Appendix-llm-website.html#notes-on-llm-usage-in-this-website",
-    "href": "Appendix-llm-website.html#notes-on-llm-usage-in-this-website",
-    "title": "Appendix – LLM Drafts & Revisions",
-    "section": "Notes on LLM Usage in This Website",
-    "text": "Notes on LLM Usage in This Website\n\nLLMs were used for brainstorming structure and generating first-draft wording.\n\nEvery page was edited, fact-checked, and personalized by me before publishing.\n\nNo confidential or sensitive company information was shared with any LLM."
-  },
-  {
-    "objectID": "leadership.html",
-    "href": "leadership.html",
-    "title": "Leadership & Growth",
-    "section": "",
-    "text": "My leadership approach is shaped by collaboration, clarity, and data-informed decision-making.\nI believe that effective leadership—especially in analytics and operations—comes from helping teams understand the problem clearly, aligning expectations early, and communicating insights in a way that people can act on.\nThis reflects elements of servant leadership (supporting others’ success), situational leadership (adapting to team needs), and evidence-based leadership (using data to guide decisions)."
-  },
-  {
-    "objectID": "leadership.html#leadership-in-academic-professional-settings",
-    "href": "leadership.html#leadership-in-academic-professional-settings",
-    "title": "Leadership & Growth",
-    "section": "",
-    "text": "Acted as a bridge between project teams, account managers, and finance, making sure everyone worked from the same numbers.\n\nTook ownership of QBR timelines, ensuring data, charts, and commentary were ready before review calls.\n\nEscalated risks early when data showed declining usage, rising refunds, or renewal risks, helping teams act before problems grew.\n\n\n\n\n\nContributed to group projects by organizing data, slides, and written sections into a coherent story.\n\nOften played the role of “structured thinker”—clarifying the problem, aligning on assumptions, and keeping the team focused on the deliverable.\n\nPracticed inclusive communication in a multicultural classroom by listening carefully and checking for shared understanding."
-  },
-  {
-    "objectID": "leadership.html#learning-to-lead-with-data-and-ai",
-    "href": "leadership.html#learning-to-lead-with-data-and-ai",
-    "title": "Leadership & Growth",
-    "section": "Learning to Lead with Data and AI",
-    "text": "Learning to Lead with Data and AI\n\nI see leadership today as the ability to make better decisions with data, while being honest about what data cannot tell us.\n\nWorking with LLMs taught me to question AI outputs, verify facts, and decide when human judgment must override the model.\n\nMy goal is to become the kind of analyst who not only runs the numbers but also explains trade-offs clearly to managers and clients."
-  },
-  {
-    "objectID": "leadership.html#growth-priorities",
-    "href": "leadership.html#growth-priorities",
-    "title": "Leadership & Growth",
-    "section": "Growth Priorities",
-    "text": "Growth Priorities\n\nBuilding stronger skills in visual communication (dashboards and storytelling with data).\n\nGaining more experience in real-world operations and supply chain environments in Canada.\n\nContinuing to reflect on ethics, inclusion, and fairness when using AI in business decisions."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MBA Portfolio",
-    "section": "",
-    "text": "MBA Candidate – Finance & Accounting · Business Analyst\nVancouver, BC · kilaparthishravan@gmail.com · LinkedIn\nDownload Résumé\nContact Me"
-  },
-  {
-    "objectID": "index.html#shravan-kumar-kilaparthi",
-    "href": "index.html#shravan-kumar-kilaparthi",
-    "title": "MBA Portfolio",
-    "section": "",
-    "text": "MBA Candidate – Finance & Accounting · Business Analyst\nVancouver, BC · kilaparthishravan@gmail.com · LinkedIn\nDownload Résumé\nContact Me"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "MBA Portfolio",
-    "section": "About Me",
-    "text": "About Me\nI am an MBA candidate at University Canada West with experience as a Business Analyst supporting account management and project management teams. In my previous role, I worked closely with global clients to build dashboards, support quarterly business reviews (QBRs), and prepare billing and reconciliation reports that gave stakeholders a clear view of performance and revenue.\nI enjoy turning messy operational data into simple stories that decision-makers can act on. My work usually sits at the intersection of analytics, operations, and client communication – understanding what leaders need to see, structuring the numbers, and presenting insights clearly.\nSince moving to Canada, I have been expanding my skills in AI applications, data visualization, and digital workflows so I can contribute to data-informed, technology-enabled finance and operations teams."
-  },
-  {
-    "objectID": "index.html#what-i-do-well",
-    "href": "index.html#what-i-do-well",
-    "title": "MBA Portfolio",
-    "section": "What I Do Well",
-    "text": "What I Do Well\n\nAnalytics & Reporting: QBR summaries, KPI dashboards, performance snapshots, and Excel-based commentary.\n\nPartnering with PM / AM Teams: aligning reports with client expectations and supporting meeting preparation.\n\nBilling & Reconciliation: preparing billing files, checking variances, reconciling data across systems.\n\nProcess Thinking: understanding data flows across sales, delivery, and finance teams."
-  },
-  {
-    "objectID": "index.html#highlights-projects",
-    "href": "index.html#highlights-projects",
-    "title": "MBA Portfolio",
-    "section": "Highlights & Projects",
-    "text": "Highlights & Projects\nThis website organizes my work into a few key areas:\n\nResume: an overview of my education, experience, and core skills.\nProjects: short write-ups of academic and professional projects where I used data, reporting, or process thinking to solve problems.\nSkills & Tools: the technical, business, and interpersonal skills I am actively using and developing.\nLeadership: selected examples of teamwork, mentoring, and community involvement.\nContact: how to reach me for roles, collaborations, or networking.\n\nEach page is written to be clear and honest, with enough detail for employers and instructors to understand what I can contribute today and how I am growing as a professional."
-  },
-  {
-    "objectID": "index.html#current-focus",
-    "href": "index.html#current-focus",
-    "title": "MBA Portfolio",
-    "section": "Current Focus",
-    "text": "Current Focus\n\nUsing AI and analytics to improve forecasting, reporting, and operations.\n\nStrengthening visual communication through dashboards and Excel.\n\nGaining more Canadian work experience in analysis + operations roles.\n\nIf your team values clear thinking, data literacy, and reliable execution — I’d love to connect."
-  },
-  {
-    "objectID": "resume.html#profile",
-    "href": "resume.html#profile",
-    "title": "Resume",
-    "section": "",
-    "text": "MBA candidate at University Canada West with experience as a Business Analyst supporting enterprise accounts in data-driven reporting and client operations.\nSkilled in QBR reporting, KPI dashboards, performance commentary, and coordination across project management, account management, and finance teams.\nCurrently expanding capabilities in AI for business, supply chain analytics, and digital workflows to support data-informed decision making."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Resume",
-    "section": "Education",
-    "text": "Education\nMaster of Business Administration (MBA) – Finance & Accounting\nUniversity Canada West, Vancouver\nExpected 2026\nBachelor of Business Management (BBM) – Accounting & Finance\nAndhra University, India"
-  },
-  {
-    "objectID": "resume.html#professional-experience",
-    "href": "resume.html#professional-experience",
-    "title": "Resume",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nBusiness Analyst — VMware India\n2022 – 2024\nEnterprise Account Support | QBR Reporting | Analytics & Operations\n\nPrepared Quarterly Business Review (QBR) decks summarizing revenue, renewals, usage metrics, refunds, risk items, and performance commentary for enterprise clients.\n\nDesigned and maintained Excel dashboards for project and account managers to track KPIs, account health, performance trends, and operational risks.\n\nCollaborated with project management, account management, and finance teams to reconcile data across multiple systems into a consistent reporting view.\n\nConducted variance analysis to identify drivers behind changes in revenue, usage, and financial performance.\n\nSupported forecasting and account health analysis using structured data summaries for leadership and client meetings.\n\n\n\n\nOperations Analyst — Urban Ladder (After-Sales / Support)\n2018 – 2020\nCustomer Operations | Reporting | Coordination\n\nMonitored post-sales operations KPIs, including delivery SLAs, refunds, escalations, and service tickets.\n\nCoordinated with operations teams to resolve delivery delays and remove bottlenecks affecting customer experience.\n\nPrepared weekly performance dashboards used by operational leadership for planning and performance tracking.\n\nContributed to workflow improvements in customer support and after-sales operations."
-  },
-  {
-    "objectID": "resume.html#selected-academic-ai-projects",
-    "href": "resume.html#selected-academic-ai-projects",
-    "title": "Resume",
-    "section": "Selected Academic & AI Projects",
-    "text": "Selected Academic & AI Projects\n\nAI in Supply Chain Evaluation (BUSI 654)\n\nDesigned and evaluated technical and ethical questions for GPT-4, Claude, Gemini, and LLaMA.\n\nCompared AI-generated responses with human responses using a structured scoring rubric.\n\nBuilt a visual analysis dashboard (bar + radar charts) in Excel to compare accuracy, clarity, and ethical reasoning.\n\nReflected on the strengths, limitations, and responsible use of LLMs in supply chain, availability, risks, and practical implications of AI in operations.\n\n\n\nMulti-Page MBA Portfolio Website\n\nBuilt a complete portfolio website using Quarto + GitHub Pages, including navigation, custom CSS, and interactive structure.\n\nIntegrated downloadable résumé, contact links, project descriptions, and LLM commentary in the appendix.\n\nUsed LLMs for brainstorming but personally revised all content for accuracy and academic integrity.\n\n\n\nOperations & Analytics Coursework\n\nCompleted case studies in forecasting, inventory decisions, bullwhip analysis, financial modelling, and performance dashboards.\n\nApplied analytics and Excel-driven techniques to support data-based decision making."
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Resume",
-    "section": "Skills",
-    "text": "Skills\n\nData & Analytics\n\nAdvanced Excel (lookup functions, pivot tables, charts, dashboards)\n\nGoogle Sheets (collaboration & reporting)\n\nBasic SQL\n\nQuarto & Markdown (reproducible reporting)\n\n\n\nReporting & Visualization\n\nQBR reporting\n\nKPI dashboards\n\nExecutive summaries in PowerPoint\n\n\n\nBusiness & Operations\n\nAccount management support\n\nVariance and performance reporting\n\nAfter-sales operations\n\nOperations and financial analysis\n\n\n\nSoft Skills\n\nClear written communication\n\nStakeholder coordination\n\nAnalytical problem-solving\n\nAdaptability and continuous learning"
-  },
-  {
-    "objectID": "resume.html#certifications-training",
-    "href": "resume.html#certifications-training",
-    "title": "Resume",
-    "section": "Certifications & Training",
-    "text": "Certifications & Training\n\nCoursework in data analytics, Excel, and AI in business (Udemy)\nIn-progress: Power BI and Applied AI tools for business analysis"
-  },
-  {
-    "objectID": "resume.html#downloadable-resume",
-    "href": "resume.html#downloadable-resume",
-    "title": "Resume",
-    "section": "Downloadable Resume",
-    "text": "Downloadable Resume\nDownload Resume"
-  },
-  {
-    "objectID": "projects.html#projects-case-studies",
-    "href": "projects.html#projects-case-studies",
-    "title": "Projects & Case Studies",
-    "section": "",
-    "text": "These projects bring together my experience in business analytics, AI in operations, and account management.\nThey include both MBA coursework and real client-facing work from my Business Analyst role.\n\n\n\nAcademic · AI & Supply Chain\n\n\n\nRole: Lead Analyst & Author • Year: 2025\n\n\nEvaluated four large language models—GPT-4, Claude, Gemini, and LLaMA— on ten advanced questions in operations and supply chain management. Topics included demand forecasting in volatile markets, bullwhip mitigation, supplier risk, blockchain transparency, and ethical participation of Indigenous suppliers.\n\n\n\nDesigned a structured evaluation rubric (accuracy, clarity, ethical sensitivity, business value).\n\n\nBuilt an Excel analysis dashboard with bar and radar charts comparing LLMs to human answers.\n\n\nIdentified each model’s strengths, biases, and blind spots in real business decision scenarios.\n\n\nProduced a full academic report with APA citations and an appendix of LLM drafts and human edits.\n\n\n\nLLM Evaluation Supply Chain Ethics Excel Analytics\n\n\n\n\nAcademic · Web & Portfolio\n\n\n\nRole: Designer & Developer • Year: 2025\n\n\nDesigned and developed this multi-page MBA portfolio website using Quarto and GitHub Pages. The site showcases my profile, résumé, project work, leadership, and a transparent appendix of LLM-assisted drafts and revisions.\n\n\n\nImplemented a clear navigation structure: Home, Resume, Projects, Skills, Leadership, Contact, Appendix.\n\n\nUsed Markdown + custom CSS to create a responsive hero section, buttons, and cards.\n\n\nIntegrated a downloadable PDF résumé, LinkedIn link, and email contact workflow.\n\n\nDocumented how LLMs were used for brainstorming and drafting, with final content fact-checked and edited by me.\n\n\n\nQuarto GitHub Pages Web Design AI-Assisted Writing\n\n\n\n\nProfessional · Analytics & Reporting\n\n\n\nRole: Business Analyst • Years: 2022–2024\n\n\nSupported enterprise accounts by preparing Quarterly Business Review (QBR) packs for global customers. Helped project and account managers understand revenue, usage, renewals, refunds, and operational risks.\n\n\n\nBuilt and maintained Excel dashboards tracking KPIs, account health, and performance trends.\n\n\nSummarized revenue and usage trends into story-driven QBR decks for leadership and clients.\n\n\nCollaborated with project management and account management teams to align definitions and metrics.\n\n\nHighlighted variance drivers and risks, supporting better customer and renewal conversations.\n\n\n\nQBR Reporting Dashboards Client Communication\n\n\n\n\nProfessional · Finance & Operations\n\n\n\nRole: Business Analyst • Years: 2022–2024\n\n\nWorked with finance, account managers, and project teams to reconcile billing and revenue data across multiple internal systems, ensuring accurate reporting for large enterprise customers.\n\n\n\nReconciled billing, refunds, and credits so that QBR and internal reports matched finance records.\n\n\nInvestigated and explained billing variances and usage differences across systems.\n\n\nProduced clear written summaries for leadership and account teams highlighting trends and root causes.\n\n\nImproved consistency between operational KPIs and financial numbers used in decision-making.\n\n\n\nReconciliation Financial Accuracy Operations"
-  },
-  {
-    "objectID": "resume.html#professional-summary",
-    "href": "resume.html#professional-summary",
-    "title": "Resume",
-    "section": "",
-    "text": "MBA candidate at University Canada West with experience as a Business Analyst supporting enterprise accounts in data-driven reporting, QBR preparation, and cross-functional coordination.\nSkilled in Excel dashboards, KPI reporting, variance analysis, and structured communication with project managers, account managers, and finance teams.\nCurrently expanding capabilities in AI for business, digital workflows, and supply chain analytics."
-  },
-  {
-    "objectID": "resume.html#selected-academic-applied-projects",
-    "href": "resume.html#selected-academic-applied-projects",
-    "title": "Resume",
-    "section": "Selected Academic & Applied Projects",
-    "text": "Selected Academic & Applied Projects\n\nAI in Supply Chain Evaluation (BUSI 654)\n\nDesigned and evaluated advanced supply chain questions for GPT-4, Claude, Gemini, and LLaMA.\n\nCompared AI-generated responses with human responses using a structured scoring rubric.\n\nBuilt an Excel analysis dashboard comparing clarity, accuracy, and ethical reasoning.\n\nHighlighted findings on AI reliability, risks, and decision-making implications in operations.\n\n\n\nMulti-Page MBA Portfolio Website (Quarto & GitHub Pages)\n\nDesigned and developed this multi-page portfolio website using Quarto and custom CSS.\n\nIntegrated résumé download, project pages, leadership page, and LLM appendix.\n\nUsed LLMs for brainstorming but applied full human editing for accuracy and academic integrity.\n\n\n\nOperations & Analytics Coursework\n\nCompleted case studies in forecasting, inventory decisions, bullwhip analysis, and performance dashboards.\n\nApplied analytics and Excel techniques to support data-based decision making."
-  },
-  {
-    "objectID": "resume.html#download-résumé",
-    "href": "resume.html#download-résumé",
-    "title": "Resume",
-    "section": "Download Résumé",
-    "text": "Download Résumé\nDownload PDF Résumé"
-  },
-  {
     "objectID": "skills.html#technical-analytical-skills",
     "href": "skills.html#technical-analytical-skills",
     "title": "Skills & Tools",
@@ -308,39 +28,81 @@
     "text": "Communication & Interpersonal Skills\n\nProfessional Writing: Clear reports, structured email communication, and concise leadership summaries.\n\nCross-Functional Collaboration: Working closely with project managers, account teams, finance, and operations groups.\n\nAnalytical Problem-Solving: Breaking down messy data into usable insights for business decisions.\n\nStakeholder Communication: Presenting insights effectively in QBRs, client-facing decks, and team meetings."
   },
   {
-    "objectID": "leadership.html#leadership-philosophy",
-    "href": "leadership.html#leadership-philosophy",
-    "title": "Leadership & Growth",
+    "objectID": "skills.html#in-progress-learning",
+    "href": "skills.html#in-progress-learning",
+    "title": "Skills & Tools",
+    "section": "In Progress / Learning",
+    "text": "In Progress / Learning\n\nBuilding deeper skills in AI for Business, including automation, evaluation, and ethical use of LLMs.\n\nStrengthening data visualization using Power BI (in progress).\n\nExploring advanced Excel modelling, KPI frameworks, and supply chain analytics.\n\nPracticing Quarto development, including custom CSS and structured documentation."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
     "section": "",
-    "text": "My leadership approach is shaped by collaboration, clarity, and data-informed decision-making.\nI believe that effective leadership—especially in analytics and operations—comes from helping teams understand the problem clearly, aligning expectations early, and communicating insights in a way that people can act on.\nThis reflects elements of servant leadership (supporting others’ success), situational leadership (adapting to team needs), and evidence-based leadership (using data to guide decisions)."
+    "text": "These projects bring together my experience in business analytics, AI in operations, and account management.\nThey include both MBA coursework and real client-facing work from my Business Analyst role.\n\n\n\nAcademic · AI & Supply Chain\n\n\nAI in Supply Chain Evaluation (BUSI 654)\n\n\nRole: Lead Analyst & Author • Year: 2025\n\n\nEvaluated four large language models—GPT-4, Claude, Gemini, and LLaMA— on ten advanced questions in operations and supply chain management. Topics included demand forecasting in volatile markets, bullwhip mitigation, supplier risk, blockchain transparency, and ethical participation of Indigenous suppliers.\n\n\n\nDesigned a structured evaluation rubric (accuracy, clarity, ethical sensitivity, business value).\n\n\nBuilt an Excel analysis dashboard with bar and radar charts comparing LLMs to human answers.\n\n\nIdentified each model’s strengths, biases, and blind spots in real business decision scenarios.\n\n\nProduced a full academic report with APA citations and an appendix of LLM drafts and human edits.\n\n\n\nLLM Evaluation Supply Chain Ethics Excel Analytics\n\n\n\n\nAcademic · Web & Portfolio\n\n\nMulti-Page MBA Portfolio Website (Quarto & GitHub Pages)\n\n\nRole: Designer & Developer • Year: 2025\n\n\nDesigned and developed this multi-page MBA portfolio website using Quarto and GitHub Pages. The site showcases my profile, résumé, project work, leadership, and a transparent appendix of LLM-assisted drafts and revisions.\n\n\n\nImplemented a clear navigation structure: Home, Resume, Projects, Skills, Leadership, Contact, Appendix.\n\n\nUsed Markdown + custom CSS to create a responsive hero section, buttons, and cards.\n\n\nIntegrated a downloadable PDF résumé, LinkedIn link, and email contact workflow.\n\n\nDocumented how LLMs were used for brainstorming and drafting, with final content fact-checked and edited by me.\n\n\n\nQuarto GitHub Pages Web Design AI-Assisted Writing\n\n\n\n\nProfessional · Analytics & Reporting\n\n\nQBR Analytics & Dashboard Reporting (VMware)\n\n\nRole: Business Analyst • Years: 2022–2024\n\n\nSupported enterprise accounts by preparing Quarterly Business Review (QBR) packs for global customers. Helped project and account managers understand revenue, usage, renewals, refunds, and operational risks.\n\n\n\nBuilt and maintained Excel dashboards tracking KPIs, account health, and performance trends.\n\n\nSummarized revenue and usage trends into story-driven QBR decks for leadership and clients.\n\n\nCollaborated with project management and account management teams to align definitions and metrics.\n\n\nHighlighted variance drivers and risks, supporting better customer and renewal conversations.\n\n\n\nQBR Reporting Dashboards Client Communication\n\n\n\n\nProfessional · Finance & Operations\n\n\nBilling Variance & Reconciliation Analysis (VMware)\n\n\nRole: Business Analyst • Years: 2022–2024\n\n\nWorked with finance, account managers, and project teams to reconcile billing and revenue data across multiple internal systems, ensuring accurate reporting for large enterprise customers.\n\n\n\nReconciled billing, refunds, and credits so that QBR and internal reports matched finance records.\n\n\nInvestigated and explained billing variances and usage differences across systems.\n\n\nProduced clear written summaries for leadership and account teams highlighting trends and root causes.\n\n\nImproved consistency between operational KPIs and financial numbers used in decision-making.\n\n\n\nReconciliation Financial Accuracy Operations"
   },
   {
-    "objectID": "leadership.html#leadership-in-professional-settings",
-    "href": "leadership.html#leadership-in-professional-settings",
-    "title": "Leadership & Growth",
-    "section": "Leadership in Professional Settings",
-    "text": "Leadership in Professional Settings\n\nCross-Functional Coordination as a Business Analyst (VMware)\nIn my Business Analyst role, leadership meant driving clarity in fast-moving environments:\n\nServed as a bridge between project management, account management, and finance, ensuring consistent and reliable numbers across teams.\n\nTook ownership of QBR timelines, coordinating data extraction, KPI validation, performance commentary, and slide preparation before leadership and client review calls.\n\nExercised analytical leadership by escalating risks early when data reflected declining usage, rising refunds, performance bottlenecks, or renewal risks, enabling teams to take timely corrective action.\n\nDemonstrated stakeholder leadership by translating complex operational patterns into simple, decision-ready insights.\n\nThis experience taught me to lead without formal authority—by influencing through data, structure, reliability, and communication."
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Shravan Kumar Kilaparthi",
+    "section": "",
+    "text": "title: Reflection- Using LI,LLMs in My MBA portfolio Website. page-layout: full\nThe use of large language models (LLMs) in this assignment developed over the time of this assignment in the form of straight-forward drafting assistance rather than a more deliberate cooperation. Initially, I mainly used the model to work out the structure that my portfolio would have and to come up with rough copies of different pages like the Home and Skills pages of my portfolio. The LLM particularly proved useful in bringing disjointed ideas in a coherent outline and proposing headings, phrases and transitions that I could edit.\nThe more pages I added the more critical and selective I became with my use of AI-generated text. I also understood that when direct copying of the drafts was made, the site would be generic and will not be representative of my real life experience as a Business Analyst who is dealing with QBRs, dashboards and operations reporting. Rather, I began using the LLM output in a starting point. On each page, I posed three questions: “Is this really true?”, “Do I really sound like this?”, and, would I be comfortable making this description before a job interviewer? It was no in the initial cases on many occasions, compelling me to revise, cut and rewrite.\nAnother lesson was the one of actuality and proper application. I ensured that no sensitive information of the company was exchanged with the model and that samples were of high level or anonymised. I have also made it clear through the appendix where I used the LLMs and how I edited their drafts. This openness is important to me as it demonstrates that the site is not fancying itself as being purely human work, but is not placebl-ing AI either.\nAll in all, the development of a design of a multi-page website with the assistance of LLM enhanced my technical and reflective abilities. Technologically, I was taught to work with various, .qmd files, navigation, and GitHub Pages hosting. Reflectively, I have acquired a better understanding of my own voice and professional narrative through editing and at times disagreeing with the model. In the future, I will consider LLMs as facilitative tools mainly when brainstorming and drafting the initial text, yet I will keep up to the office hours to adopt my own judgment in making sure that the final product is accurate, responsible, as well as in line with my identity."
   },
   {
-    "objectID": "leadership.html#leadership-in-academic-projects",
-    "href": "leadership.html#leadership-in-academic-projects",
-    "title": "Leadership & Growth",
-    "section": "Leadership in Academic Projects",
-    "text": "Leadership in Academic Projects\n\nTeam Leadership in the MBA Program\nWorking with multicultural teams at UCW helped strengthen my interpersonal and collaborative leadership:\n\nOften stepped into the role of structured problem-solver, helping teams define the scope, outline deliverables, and sequence the work.\n\nTook responsibility for organizing data, research, and slides so the final presentation told a cohesive and professional story.\n\nPracticed inclusive leadership by encouraging quieter team members to contribute, summarizing discussions, and checking for shared understanding.\n\nUsed conflict-free decision-making by focusing the team on criteria, evidence, and clarity, rather than personal opinions.\n\nThese experiences reinforced the value of empathy, active listening, and cultural awareness in team settings."
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA candidate at University Canada West with experience as a Business Analyst supporting enterprise accounts in data-driven reporting, QBR preparation, and cross-functional coordination.\nSkilled in Excel dashboards, KPI reporting, variance analysis, and structured communication with project managers, account managers, and finance teams.\nCurrently expanding capabilities in AI for business, digital workflows, and supply chain analytics."
   },
   {
-    "objectID": "leadership.html#leading-with-data-and-emerging-technologies",
-    "href": "leadership.html#leading-with-data-and-emerging-technologies",
-    "title": "Leadership & Growth",
-    "section": "Leading with Data and Emerging Technologies",
-    "text": "Leading with Data and Emerging Technologies\nI view modern leadership as the ability to combine analytics, technology, and human judgment:\n\nLearned to use data not only for reporting but to guide decisions, identify risks, and shape conversations.\n\nWorking with LLMs in academic assignments strengthened my ability to evaluate AI outputs critically, verify facts, and differentiate between computational accuracy and real-world practicality.\n\nDeveloped the habit of explaining insights in terms of trade-offs, assumptions, and limitations—an essential part of responsible analytical leadership.\n\nThis mindset supports my long-term goal: becoming a leader who uses analytics and AI ethically, transparently, and effectively."
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA candidate at University Canada West with experience as a Business Analyst supporting enterprise accounts in data-driven reporting, QBR preparation, and cross-functional coordination.\nSkilled in Excel dashboards, KPI reporting, variance analysis, and structured communication with project managers, account managers, and finance teams.\nCurrently expanding capabilities in AI for business, digital workflows, and supply chain analytics."
   },
   {
-    "objectID": "leadership.html#growth-priorities-as-a-developing-leader",
-    "href": "leadership.html#growth-priorities-as-a-developing-leader",
-    "title": "Leadership & Growth",
-    "section": "Growth Priorities as a Developing Leader",
-    "text": "Growth Priorities as a Developing Leader\n\nStrengthening skills in visual storytelling—turning complex operational data into clear narratives through dashboards and executive summaries.\n\nGaining deeper exposure to supply chain and operational environments in Canada, building on my foundation in analytics and account support.\n\nContinuing to develop skills in ethical AI use, especially fairness, transparency, and inclusivity in data-driven decisions.\n\nBuilding confidence in strategic communication, ensuring that insights not only inform but drive meaningful action among managers and clients."
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nMaster of Business Administration (MBA) – Finance & Accounting\nUniversity Canada West, Vancouver\nExpected 2026\nBachelor of Business Management (BBM) – Accounting & Finance\nAndhra University, India"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nBusiness Analyst — VMware India\n2022 – 2024\nEnterprise Account Support | QBR Reporting | Analytics & Operations\n\nPrepared Quarterly Business Review (QBR) decks summarizing revenue, renewals, usage metrics, refunds, risk items, and performance commentary for enterprise clients.\n\nDesigned and maintained Excel dashboards for project and account managers to track KPIs, account health, performance trends, and operational risks.\n\nCollaborated with project management, account management, and finance teams to reconcile data across multiple systems into a consistent reporting view.\n\nConducted variance analysis to identify drivers behind changes in revenue, usage, and financial performance.\n\nSupported forecasting and account health analysis using structured data summaries for leadership and client meetings.\n\n\n\n\nOperations Analyst — Urban Ladder (After-Sales / Support)\n2018 – 2020\nCustomer Operations | Reporting | Coordination\n\nMonitored post-sales operations KPIs, including delivery SLAs, refunds, escalations, and service tickets.\n\nCoordinated with operations teams to resolve delivery delays and remove bottlenecks affecting customer experience.\n\nPrepared weekly performance dashboards used by operational leadership for planning and performance tracking.\n\nContributed to workflow improvements in customer support and after-sales operations."
+  },
+  {
+    "objectID": "resume.html#selected-academic-applied-projects",
+    "href": "resume.html#selected-academic-applied-projects",
+    "title": "Resume",
+    "section": "Selected Academic & Applied Projects",
+    "text": "Selected Academic & Applied Projects\n\nAI in Supply Chain Evaluation (BUSI 654)\n\nDesigned and evaluated advanced supply chain questions for GPT-4, Claude, Gemini, and LLaMA.\n\nCompared AI-generated responses with human responses using a structured scoring rubric.\n\nBuilt an Excel analysis dashboard comparing clarity, accuracy, and ethical reasoning.\n\nHighlighted findings on AI reliability, risks, and decision-making implications in operations.\n\n\n\nMulti-Page MBA Portfolio Website (Quarto & GitHub Pages)\n\nDesigned and developed this multi-page portfolio website using Quarto and custom CSS.\n\nIntegrated résumé download, project pages, leadership page, and LLM appendix.\n\nUsed LLMs for brainstorming but applied full human editing for accuracy and academic integrity.\n\n\n\nOperations & Analytics Coursework\n\nCompleted case studies in forecasting, inventory decisions, bullwhip analysis, and performance dashboards.\n\nApplied analytics and Excel techniques to support data-based decision making."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\nData & Analytics\n\nAdvanced Excel (lookup functions, pivot tables, charts, dashboards)\n\nGoogle Sheets (collaboration & reporting)\n\nBasic SQL\n\nQuarto & Markdown (reproducible reporting)\n\n\n\nReporting & Visualization\n\nQBR reporting\n\nKPI dashboards\n\nExecutive summaries in PowerPoint\n\n\n\nBusiness & Operations\n\nAccount management support\n\nVariance and performance reporting\n\nAfter-sales operations\n\nOperations and financial analysis\n\n\n\nSoft Skills\n\nClear written communication\n\nStakeholder coordination\n\nAnalytical problem-solving\n\nAdaptability and continuous learning"
+  },
+  {
+    "objectID": "resume.html#certifications-training",
+    "href": "resume.html#certifications-training",
+    "title": "Resume",
+    "section": "Certifications & Training",
+    "text": "Certifications & Training\n\nCoursework in data analytics, Excel, and AI in business (Udemy)\nIn-progress: Power BI and Applied AI tools for business analysis"
+  },
+  {
+    "objectID": "resume.html#download-résumé",
+    "href": "resume.html#download-résumé",
+    "title": "Resume",
+    "section": "Download Résumé",
+    "text": "Download Résumé\nDownload PDF Résumé"
   },
   {
     "objectID": "contact.html",
@@ -362,13 +124,6 @@
     "title": "Contact",
     "section": "Availability",
     "text": "Availability\nI am based in Vancouver, BC, and open to:\n\nPart-time roles\n\nInternships and co-ops\n\nIndustry projects\n\nNetworking opportunities\n\nProfessional collaborations\n\nFeel free to connect — I usually reply within 24 hours."
-  },
-  {
-    "objectID": "reflection.html",
-    "href": "reflection.html",
-    "title": "Shravan Kumar Kilaparthi",
-    "section": "",
-    "text": "title: Reflection- Using LI,LLMs in My MBA portfolio Website. page-layout: full\nThe use of large language models (LLMs) in this assignment developed over the time of this assignment in the form of straight-forward drafting assistance rather than a more deliberate cooperation. Initially, I mainly used the model to work out the structure that my portfolio would have and to come up with rough copies of different pages like the Home and Skills pages of my portfolio. The LLM particularly proved useful in bringing disjointed ideas in a coherent outline and proposing headings, phrases and transitions that I could edit.\nThe more pages I added the more critical and selective I became with my use of AI-generated text. I also understood that when direct copying of the drafts was made, the site would be generic and will not be representative of my real life experience as a Business Analyst who is dealing with QBRs, dashboards and operations reporting. Rather, I began using the LLM output in a starting point. On each page, I posed three questions: “Is this really true?”, “Do I really sound like this?”, and, would I be comfortable making this description before a job interviewer? It was no in the initial cases on many occasions, compelling me to revise, cut and rewrite.\nAnother lesson was the one of actuality and proper application. I ensured that no sensitive information of the company was exchanged with the model and that samples were of high level or anonymised. I have also made it clear through the appendix where I used the LLMs and how I edited their drafts. This openness is important to me as it demonstrates that the site is not fancying itself as being purely human work, but is not placebl-ing AI either.\nAll in all, the development of a design of a multi-page website with the assistance of LLM enhanced my technical and reflective abilities. Technologically, I was taught to work with various, .qmd files, navigation, and GitHub Pages hosting. Reflectively, I have acquired a better understanding of my own voice and professional narrative through editing and at times disagreeing with the model. In the future, I will consider LLMs as facilitative tools mainly when brainstorming and drafting the initial text, yet I will keep up to the office hours to adopt my own judgment in making sure that the final product is accurate, responsible, as well as in line with my identity."
   },
   {
     "objectID": "appendix-llm-website.html",
@@ -434,10 +189,80 @@
     "text": "B4. Reflection on LLM Limitations\nThrough this project, I learned that LLMs:\n\ngenerate helpful structure, but lack contextual precision\n\ncan produce generic or inaccurate descriptions of my experience\n\nrequire human judgment for accuracy, tone, and meaning\n\nwork best as brainstorming tools, not content creators\n\nThis aligns with course teachings on responsible AI use."
   },
   {
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership & Growth",
+    "section": "",
+    "text": "My leadership approach is shaped by collaboration, clarity, and data-informed decision-making.\nI believe that effective leadership—especially in analytics and operations—comes from helping teams understand the problem clearly, aligning expectations early, and communicating insights in a way that people can act on.\nThis reflects elements of servant leadership (supporting others’ success), situational leadership (adapting to team needs), and evidence-based leadership (using data to guide decisions)."
+  },
+  {
+    "objectID": "leadership.html#leadership-philosophy",
+    "href": "leadership.html#leadership-philosophy",
+    "title": "Leadership & Growth",
+    "section": "",
+    "text": "My leadership approach is shaped by collaboration, clarity, and data-informed decision-making.\nI believe that effective leadership—especially in analytics and operations—comes from helping teams understand the problem clearly, aligning expectations early, and communicating insights in a way that people can act on.\nThis reflects elements of servant leadership (supporting others’ success), situational leadership (adapting to team needs), and evidence-based leadership (using data to guide decisions)."
+  },
+  {
+    "objectID": "leadership.html#leadership-in-professional-settings",
+    "href": "leadership.html#leadership-in-professional-settings",
+    "title": "Leadership & Growth",
+    "section": "Leadership in Professional Settings",
+    "text": "Leadership in Professional Settings\n\nCross-Functional Coordination as a Business Analyst (VMware)\nIn my Business Analyst role, leadership meant driving clarity in fast-moving environments:\n\nServed as a bridge between project management, account management, and finance, ensuring consistent and reliable numbers across teams.\n\nTook ownership of QBR timelines, coordinating data extraction, KPI validation, performance commentary, and slide preparation before leadership and client review calls.\n\nExercised analytical leadership by escalating risks early when data reflected declining usage, rising refunds, performance bottlenecks, or renewal risks, enabling teams to take timely corrective action.\n\nDemonstrated stakeholder leadership by translating complex operational patterns into simple, decision-ready insights.\n\nThis experience taught me to lead without formal authority—by influencing through data, structure, reliability, and communication."
+  },
+  {
+    "objectID": "leadership.html#leadership-in-academic-projects",
+    "href": "leadership.html#leadership-in-academic-projects",
+    "title": "Leadership & Growth",
+    "section": "Leadership in Academic Projects",
+    "text": "Leadership in Academic Projects\n\nTeam Leadership in the MBA Program\nWorking with multicultural teams at UCW helped strengthen my interpersonal and collaborative leadership:\n\nOften stepped into the role of structured problem-solver, helping teams define the scope, outline deliverables, and sequence the work.\n\nTook responsibility for organizing data, research, and slides so the final presentation told a cohesive and professional story.\n\nPracticed inclusive leadership by encouraging quieter team members to contribute, summarizing discussions, and checking for shared understanding.\n\nUsed conflict-free decision-making by focusing the team on criteria, evidence, and clarity, rather than personal opinions.\n\nThese experiences reinforced the value of empathy, active listening, and cultural awareness in team settings."
+  },
+  {
+    "objectID": "leadership.html#leading-with-data-and-emerging-technologies",
+    "href": "leadership.html#leading-with-data-and-emerging-technologies",
+    "title": "Leadership & Growth",
+    "section": "Leading with Data and Emerging Technologies",
+    "text": "Leading with Data and Emerging Technologies\nI view modern leadership as the ability to combine analytics, technology, and human judgment:\n\nLearned to use data not only for reporting but to guide decisions, identify risks, and shape conversations.\n\nWorking with LLMs in academic assignments strengthened my ability to evaluate AI outputs critically, verify facts, and differentiate between computational accuracy and real-world practicality.\n\nDeveloped the habit of explaining insights in terms of trade-offs, assumptions, and limitations—an essential part of responsible analytical leadership.\n\nThis mindset supports my long-term goal: becoming a leader who uses analytics and AI ethically, transparently, and effectively."
+  },
+  {
+    "objectID": "leadership.html#growth-priorities-as-a-developing-leader",
+    "href": "leadership.html#growth-priorities-as-a-developing-leader",
+    "title": "Leadership & Growth",
+    "section": "Growth Priorities as a Developing Leader",
+    "text": "Growth Priorities as a Developing Leader\n\nStrengthening skills in visual storytelling—turning complex operational data into clear narratives through dashboards and executive summaries.\n\nGaining deeper exposure to supply chain and operational environments in Canada, building on my foundation in analytics and account support.\n\nContinuing to develop skills in ethical AI use, especially fairness, transparency, and inclusivity in data-driven decisions.\n\nBuilding confidence in strategic communication, ensuring that insights not only inform but drive meaningful action among managers and clients."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MBA Portfolio",
+    "section": "",
+    "text": "MBA Candidate – Finance & Accounting · Business Analyst\nVancouver, BC · kilaparthishravan@gmail.com · LinkedIn\nDownload Résumé\nContact Me"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "MBA Portfolio",
+    "section": "About Me",
+    "text": "About Me\nI am an MBA candidate at University Canada West with experience as a Business Analyst supporting account management and project management teams. In my previous role, I worked closely with global clients to build dashboards, support quarterly business reviews (QBRs), and prepare billing and reconciliation reports that gave stakeholders a clear view of performance and revenue.\nI enjoy turning messy operational data into simple stories that decision-makers can act on. My work usually sits at the intersection of analytics, operations, and client communication – understanding what leaders need to see, structuring the numbers, and presenting insights clearly.\nSince moving to Canada, I have been expanding my skills in AI applications, data visualization, and digital workflows so I can contribute to data-informed, technology-enabled finance and operations teams."
+  },
+  {
+    "objectID": "index.html#what-i-do-well",
+    "href": "index.html#what-i-do-well",
+    "title": "MBA Portfolio",
+    "section": "What I Do Well",
+    "text": "What I Do Well\n\nAnalytics & Reporting: QBR summaries, KPI dashboards, performance snapshots, and Excel-based commentary.\n\nPartnering with PM / AM Teams: aligning reports with client expectations and supporting meeting preparation.\n\nBilling & Reconciliation: preparing billing files, checking variances, reconciling data across systems.\n\nProcess Thinking: understanding data flows across sales, delivery, and finance teams."
+  },
+  {
     "objectID": "index.html#highlights-website-sections",
     "href": "index.html#highlights-website-sections",
     "title": "MBA Portfolio",
     "section": "Highlights & Website Sections",
     "text": "Highlights & Website Sections\n\nResume: education, roles, and skills.\n\nProjects: academic + professional case studies.\n\nSkills: technical, business, and interpersonal competencies.\n\nLeadership: teamwork, decisions, and professional growth.\n\nContact: email + links."
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "MBA Portfolio",
+    "section": "Current Focus",
+    "text": "Current Focus\n\nUsing AI and analytics to improve forecasting, reporting, and operations.\n\nStrengthening visual communication through dashboards and Excel.\n\nGaining more Canadian work experience in analysis + operations roles.\n\nIf your team values clear thinking, data literacy, and reliable execution — I’d love to connect."
   }
 ]
