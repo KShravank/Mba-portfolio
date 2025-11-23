@@ -1,0 +1,110 @@
+---
+title: "Projects & Case Studies"
+page-layout: full
+---
+
+
+These projects bring together my experience in **business analytics, AI in operations, and account management**.  
+They include both **MBA coursework** and **real client-facing work** from my Business Analyst role.
+
+<div class="projects-grid">
+
+<div class="project-card">
+  <div class="project-badge">Academic · AI & Supply Chain</div>
+  <h3>AI in Supply Chain Evaluation (BUSI 654)</h3>
+  <p class="project-meta">
+    <strong>Role:</strong> Lead Analyst & Author • <strong>Year:</strong> 2025
+  </p>
+  <p>
+    Evaluated four large language models—<strong>GPT-4, Claude, Gemini, and LLaMA</strong>—
+    on ten advanced questions in operations and supply chain management. Topics included
+    demand forecasting in volatile markets, bullwhip mitigation, supplier risk, blockchain
+    transparency, and ethical participation of Indigenous suppliers.
+  </p>
+  <ul>
+    <li>Designed a structured <strong>evaluation rubric</strong> (accuracy, clarity, ethical sensitivity, business value).</li>
+    <li>Built an <strong>Excel analysis dashboard</strong> with bar and radar charts comparing LLMs to human answers.</li>
+    <li>Identified each model’s <strong>strengths, biases, and blind spots</strong> in real business decision scenarios.</li>
+    <li>Produced a full academic report with <strong>APA citations</strong> and an appendix of LLM drafts and human edits.</li>
+  </ul>
+  <p class="project-tags">
+    <span class="tag">LLM Evaluation</span>
+    <span class="tag">Supply Chain</span>
+    <span class="tag">Ethics</span>
+    <span class="tag">Excel Analytics</span>
+  </p>
+</div>
+
+<div class="project-card">
+  <div class="project-badge">Academic · Web & Portfolio</div>
+  <h3>Multi-Page MBA Portfolio Website (Quarto &amp; GitHub Pages)</h3>
+  <p class="project-meta">
+    <strong>Role:</strong> Designer & Developer • <strong>Year:</strong> 2025
+  </p>
+  <p>
+    Designed and developed this <strong>multi-page MBA portfolio website</strong> using Quarto
+    and GitHub Pages. The site showcases my profile, résumé, project work, leadership,
+    and a transparent appendix of LLM-assisted drafts and revisions.
+  </p>
+  <ul>
+    <li>Implemented a clear navigation structure: <em>Home, Resume, Projects, Skills, Leadership, Contact, Appendix</em>.</li>
+    <li>Used <strong>Markdown + custom CSS</strong> to create a responsive hero section, buttons, and cards.</li>
+    <li>Integrated a downloadable <strong>PDF résumé</strong>, LinkedIn link, and email contact workflow.</li>
+    <li>Documented how LLMs were used for <strong>brainstorming and drafting</strong>, with final content <strong>fact-checked and edited</strong> by me.</li>
+  </ul>
+  <p class="project-tags">
+    <span class="tag">Quarto</span>
+    <span class="tag">GitHub Pages</span>
+    <span class="tag">Web Design</span>
+    <span class="tag">AI-Assisted Writing</span>
+  </p>
+</div>
+
+<div class="project-card">
+  <div class="project-badge">Professional · Analytics & Reporting</div>
+  <h3>QBR Analytics &amp; Dashboard Reporting (VMware)</h3>
+  <p class="project-meta">
+    <strong>Role:</strong> Business Analyst • <strong>Years:</strong> 2022–2024
+  </p>
+  <p>
+    Supported enterprise accounts by preparing <strong>Quarterly Business Review (QBR)</strong> packs
+    for global customers. Helped project and account managers understand revenue, usage,
+    renewals, refunds, and operational risks.
+  </p>
+  <ul>
+    <li>Built and maintained <strong>Excel dashboards</strong> tracking KPIs, account health, and performance trends.</li>
+    <li>Summarized revenue and usage trends into <strong>story-driven QBR decks</strong> for leadership and clients.</li>
+    <li>Collaborated with <strong>project management and account management</strong> teams to align definitions and metrics.</li>
+    <li>Highlighted <strong>variance drivers</strong> and risks, supporting better customer and renewal conversations.</li>
+  </ul>
+  <p class="project-tags">
+    <span class="tag">QBR Reporting</span>
+    <span class="tag">Dashboards</span>
+    <span class="tag">Client Communication</span>
+  </p>
+</div>
+
+<div class="project-card">
+  <div class="project-badge">Professional · Finance & Operations</div>
+  <h3>Billing Variance &amp; Reconciliation Analysis (VMware)</h3>
+  <p class="project-meta">
+    <strong>Role:</strong> Business Analyst • <strong>Years:</strong> 2022–2024
+  </p>
+  <p>
+    Worked with finance, account managers, and project teams to reconcile <strong>billing and revenue data</strong>
+    across multiple internal systems, ensuring accurate reporting for large enterprise customers.
+  </p>
+  <ul>
+    <li>Reconciled <strong>billing, refunds, and credits</strong> so that QBR and internal reports matched finance records.</li>
+    <li>Investigated and explained <strong>billing variances</strong> and usage differences across systems.</li>
+    <li>Produced clear written summaries for leadership and account teams highlighting trends and root causes.</li>
+    <li>Improved consistency between <strong>operational KPIs</strong> and financial numbers used in decision-making.</li>
+  </ul>
+  <p class="project-tags">
+    <span class="tag">Reconciliation</span>
+    <span class="tag">Financial Accuracy</span>
+    <span class="tag">Operations</span>
+  </p>
+</div>
+
+</div>

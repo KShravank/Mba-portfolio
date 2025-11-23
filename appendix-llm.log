@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.10.26)  26 OCT 2025 20:58
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.10.26)  22 NOV 2025 23:16
  restricted system commands enabled.
 **appendix-llm.tex
 (./appendix-llm.tex
@@ -36,7 +36,6 @@ Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
 Inserting `tracingstacklevels' in `input_level_string'. (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/apa7/apa7.cls
 Document Class: apa7 2022/07/25 v2.16 APA formatting (7th edition)
-Class apa7 Info: Using default mode (jou) on input line 152.
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/base/size12.clo
@@ -97,47 +96,7 @@ Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 116.
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/psnfss/times.sty
-Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/psnfss/mathptm.sty
-Package: mathptm 2020/03/25 PSNFSS-v9.3 Times w/ Math (SPQR, WaS) 
-
-Package mathptm Warning: This package is to be regarded as obsolete.
-(mathptm)                See the PSNFSS documentation.
-
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/ptmcm/m/n on input line 31.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/ptmcm/m/n on input line 31.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 32.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/lmm/m/it --> OML/ptmcm/m/it on input line 32.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/lmm/b/it --> OML/ptmcm/m/it on input line 32.
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 33.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> OMS/pzccm/m/n on input line 33.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> OMS/pzccm/m/n on input line 33.
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 34.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> OMX/psycm/m/n on input line 34.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> OMX/psycm/m/n on input line 34.
-\symbold=\mathgroup4
-\symitalic=\mathgroup5
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> OT1/ptm/bx/n on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/ptm/bx/n on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 38.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> OT1/ptm/m/it on input line 38.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> OT1/ptm/m/it on input line 38.
-) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+)) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
@@ -561,12 +520,11 @@ Package caption Info: threeparttable package is loaded.
 \gr@boxheight=\skip74
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2023/12/19 v1.2f Bold Symbol Support (DPC/FMi)
-Package bm Info: No bold for \OT1/ptmcm/m/n, using \pmb.
-Package bm Info: No bold for \OML/ptmcm/m/it, using \pmb.
-Package bm Info: No bold for \OMS/pzccm/m/n, using \pmb.
-Package bm Info: No bold for \OMX/psycm/m/n, using \pmb.
-Package bm Info: No bold for \OT1/ptm/bx/n, using \pmb.
-Package bm Info: No bold for \OT1/ptm/m/it, using \pmb.
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+Package bm Info: No bold for \OMX/lmex/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 )
 \c@appendix=\count330
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
@@ -586,101 +544,84 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip87
 \f@nch@widthR=\skip88
 \@temptokenb=\toks32
-) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/sttools/flushend.sty
-Package: flushend 2025/06/18 v4.3 Balancing columns in twocolumn mode (ST)
-\flushend@@lastskip@a=\skip89
-\flushend@@lastskip@b=\skip90
-\flushend@@lastnode=\count331
-\var@@loop@iter=\count332
-\var@@temp@spread=\dimen295
-\var@@temp@a=\dimen296
-\var@@temp@loop=\dimen297
-\flushend@@page@rule=\dimen298
-\flushend@@varbox@lastpage=\box66
-\flushend@@varbox@a=\box67
-\flushend@@varbox@c=\box68
-\flushend@@tempbox@a=\box69
-\flushend@@tempbox@c=\box70
-\flushend@@floatbox=\box71
-\@viper=\box72
-\hold@viper=\box73
-\atColsBreak=\toks33
-\atColsEnd=\toks34
-\oldbreak@skip=\dimen299
-) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/tools/ftnright.sty
-Package: ftnright 2023/07/08 v1.1f footnote layout package (FMi)
-\rcol@footinsskip=\skip91
-\ftn@amount=\dimen300
+) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/endfloat/endfloat.sty
+Package: endfloat 2019/04/15 v2.7 LaTeX2e package puts figures and tables at end (jdm)
+\c@posttable=\count331
+\efloat@postttt=\write4
+\@ef@tttopen=\count332
+\c@postfigure=\count333
+\efloat@postfff=\write5
+\@ef@fffopen=\count334
 )) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2025/06/16 v2.17y AMS math features
-\@mathmargin=\skip92
+\@mathmargin=\skip89
 For additional information on amsmath, use the `?' option.
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks35
-\ex@=\dimen301
+\@emptytoks=\toks33
+\ex@=\dimen295
 )) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 LaTeX Info: Redefining \boldsymbol on input line 28.
-\pmbraise@=\dimen302
+\pmbraise@=\dimen296
 ) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count333
+\inf@bad=\count335
 LaTeX Info: Redefining \frac on input line 235.
-\uproot@=\count334
-\leftroot@=\count335
+\uproot@=\count336
+\leftroot@=\count337
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count336
-\DOTSCASE@=\count337
+\classnum@=\count338
+\DOTSCASE@=\count339
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box74
-\strutbox@=\box75
+\Mathstrutbox@=\box66
+\strutbox@=\box67
 LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen303
+\big@size=\dimen297
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count338
+\macc@depth=\count340
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count339
+\c@MaxMatrixCols=\count341
 \dotsspace@=\muskip18
-\c@parentequation=\count340
-\dspbrk@lvl=\count341
-\tag@help=\toks36
-\row@=\count342
-\column@=\count343
-\maxfields@=\count344
-\andhelp@=\toks37
-\eqnshift@=\dimen304
-\alignsep@=\dimen305
-\tagshift@=\dimen306
-\tagwidth@=\dimen307
-\totwidth@=\dimen308
-\lineht@=\dimen309
-\@envbody=\toks38
-\multlinegap=\skip93
-\multlinetaggap=\skip94
-\mathdisplay@stack=\toks39
+\c@parentequation=\count342
+\dspbrk@lvl=\count343
+\tag@help=\toks34
+\row@=\count344
+\column@=\count345
+\maxfields@=\count346
+\andhelp@=\toks35
+\eqnshift@=\dimen298
+\alignsep@=\dimen299
+\tagshift@=\dimen300
+\tagwidth@=\dimen301
+\totwidth@=\dimen302
+\lineht@=\dimen303
+\@envbody=\toks36
+\multlinegap=\skip90
+\multlinetaggap=\skip91
+\mathdisplay@stack=\toks37
 LaTeX Info: Redefining \[ on input line 2949.
 LaTeX Info: Redefining \] on input line 2950.
 ) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup6
-\symAMSb=\mathgroup7
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
@@ -688,7 +629,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: expl3 2025-10-09 L3 programming layer (loader) 
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2025-10-09 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count345
+\l__color_backend_stack_int=\count347
 Inserting `l3color' in `luaotfload.parse_color'.))
 Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.sty
@@ -701,20 +642,20 @@ Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count346
-\l__fontspec_language_int=\count347
-\l__fontspec_strnum_int=\count348
-\l__fontspec_tmp_int=\count349
-\l__fontspec_tmpa_int=\count350
-\l__fontspec_tmpb_int=\count351
-\l__fontspec_tmpc_int=\count352
-\l__fontspec_em_int=\count353
-\l__fontspec_emdef_int=\count354
-\l__fontspec_strong_int=\count355
-\l__fontspec_strongdef_int=\count356
-\l__fontspec_tmpa_dim=\dimen310
-\l__fontspec_tmpb_dim=\dimen311
-\l__fontspec_tmpc_dim=\dimen312
+\l__fontspec_script_int=\count348
+\l__fontspec_language_int=\count349
+\l__fontspec_strnum_int=\count350
+\l__fontspec_tmp_int=\count351
+\l__fontspec_tmpa_int=\count352
+\l__fontspec_tmpb_int=\count353
+\l__fontspec_tmpc_int=\count354
+\l__fontspec_em_int=\count355
+\l__fontspec_emdef_int=\count356
+\l__fontspec_strong_int=\count357
+\l__fontspec_strongdef_int=\count358
+\l__fontspec_tmpa_dim=\dimen304
+\l__fontspec_tmpb_dim=\dimen305
+\l__fontspec_tmpc_dim=\dimen306
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
 ) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
@@ -852,9 +793,9 @@ LaTeX Encoding Info:    Redeclaring text symbol \textdiv (encoding TS1) on input
 )) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.sty
 Package: lualatex-math 2022/01/01 v1.12 Patches for mathematics typesetting with LuaLaTeX
 Lua module: lualatex-math 2013/08/03 v1.3 Patches for mathematics typesetting with LuaLaTeX)
-\g__um_fam_int=\count357
-\g__um_fonts_used_int=\count358
-\l__um_primecount_int=\count359
+\g__um_fam_int=\count359
+\g__um_fonts_used_int=\count360
+\l__um_primecount_int=\count361
 \g__um_primekern_muskip=\muskip19
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
@@ -862,25 +803,25 @@ Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbat
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
-\MT@toks=\toks40
-\MT@tempbox=\box76
-\MT@count=\count360
+\MT@toks=\toks38
+\MT@tempbox=\box68
+\MT@count=\count362
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
 LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks41
+\MT@prot@toks=\toks39
 LaTeX Info: Redefining \rightprotrusion on input line 1107.
 LaTeX Info: Redefining \textls on input line 1449.
-\MT@outer@kern=\dimen313
+\MT@outer@kern=\dimen307
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count361
+\MT@listname@count=\count363
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype-luatex.def
 File: microtype-luatex.def 2025/07/09 v3.2b Definitions specific to luatex (RS)
 Lua module: microtype 2025/07/09 v3.2b microtype module.
 Module microtype Info: overwriting function `keepligature' on input line 63
 LaTeX Info: Redefining \lsstyle on input line 779.
 LaTeX Info: Redefining \lslig on input line 779.
-\MT@outer@space=\skip95
+\MT@outer@space=\skip92
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
@@ -891,62 +832,62 @@ LaTeX Info: Redefining \microtypesetup on input line 3065.
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 ) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
-\LTleft=\skip96
-\LTright=\skip97
-\LTpre=\skip98
-\LTpost=\skip99
-\LTchunksize=\count362
-\LTcapwidth=\dimen314
-\LT@head=\box77
-\LT@firsthead=\box78
-\LT@foot=\box79
-\LT@lastfoot=\box80
-\LT@gbox=\box81
-\LT@cols=\count363
-\LT@rows=\count364
-\c@LT@tables=\count365
-\c@LT@chunks=\count366
-\LT@p@ftn=\toks42
+\LTleft=\skip93
+\LTright=\skip94
+\LTpre=\skip95
+\LTpost=\skip96
+\LTchunksize=\count364
+\LTcapwidth=\dimen308
+\LT@head=\box69
+\LT@firsthead=\box70
+\LT@foot=\box71
+\LT@lastfoot=\box72
+\LT@gbox=\box73
+\LT@cols=\count365
+\LT@rows=\count366
+\c@LT@tables=\count367
+\c@LT@chunks=\count368
+\LT@p@ftn=\toks40
 ) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
-\col@sep=\dimen315
-\ar@mcellbox=\box82
-\extrarowheight=\dimen316
-\NC@list=\toks43
-\extratabsurround=\skip100
-\backup@length=\skip101
-\ar@cellbox=\box83
+\col@sep=\dimen309
+\ar@mcellbox=\box74
+\extrarowheight=\dimen310
+\NC@list=\toks41
+\extratabsurround=\skip97
+\backup@length=\skip98
+\ar@cellbox=\box75
 ) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
-\fn@notes=\box84
-\fn@width=\dimen317
+\fn@notes=\box76
+\fn@width=\dimen311
 )
-\pandoc@box=\box85
+\pandoc@box=\box77
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count367
-\float@exts=\toks44
-\float@box=\box86
-\@float@everytoks=\toks45
-\@floatcapt=\box87
+\c@float@type=\count369
+\float@exts=\toks42
+\float@box=\box78
+\@float@everytoks=\toks43
+\@floatcapt=\box79
 )
-\@float@every@codelisting=\toks46
-\c@codelisting=\count368
+\@float@every@codelisting=\toks44
+\c@codelisting=\count370
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count369
+\c@subfigure=\count371
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count370
+\c@subtable=\count372
 ) (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
-\BKM@id=\count371
+\BKM@id=\count373
 ))
 Package hyperref Info: Option `colorlinks' set `true' on input line 161.
-\c@NumberOfAuthors=\count372
-\c@NumberOfSuperscripts=\count373
+\c@NumberOfAuthors=\count374
+\c@NumberOfSuperscripts=\count375
 No file appendix-llm.aux.
 
 \openout1 = appendix-llm.aux
@@ -977,30 +918,30 @@ LaTeX Font Info:    ... okay on input line 174.
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: 
 * h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
 * v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=501.55397pt
-* \textheight=643.20255pt
-* \oddsidemargin=-18.06749pt
-* \evensidemargin=-18.06749pt
-* \topmargin=-19.8738pt
-* \headheight=13.4457pt
-* \headsep=13.72546pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=15.2pt
+* \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=95.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
-* \columnsep=18.06749pt
-* \skip\footins=10.0pt plus 5.0pt minus 3.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
@@ -1022,11 +963,11 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/ptmcm/m/n --> TU/lmr/m/n on input line 174.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/ptm/m/it --> TU/lmr/m/it on input line 174.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/ptm/bx/n --> TU/lmr/bx/n on input line 174.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
@@ -1102,11 +1043,11 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 174.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/ptmcm/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 174.
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 174.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 174.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/ptmcm/m/n --> TU/latinmodern-math.otf(1)/b/n on input line 174.
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 174.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999970497384594.
@@ -1144,11 +1085,11 @@ Package fontspec Info:
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 174.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/pzccm/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 174.
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 174.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `bold' on input line 174.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/pzccm/m/n --> TU/latinmodern-math.otf(2)/b/n on input line 174.
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 174.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999970497384594.
@@ -1186,18 +1127,18 @@ Package fontspec Info:
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 174.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/psycm/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 174.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 174.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `bold' on input line 174.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/psycm/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 174.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 174.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 8.4pt on input line 174.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 174.
-LaTeX Font Info:    Trying to load font information for OML+ptmcm on input line 174.
-(/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omlptmcm.fd
-File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 174.
+(/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 174.
@@ -1211,16 +1152,14 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 8.4pt on input line 174.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 174.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 174.
-(/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 174.
+(/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 174.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 174.
+(/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 LaTeX Font Info:    Trying to load font information for U+msa on input line 174.
 (/Users/shravnkumar/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1252,14 +1191,16 @@ File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mode
 
 Class apa7 Warning: Affiliation not defined.
 
-\c@NumberOfAffiliations=\count374
+\c@NumberOfAffiliations=\count376
 
-Class apa7 Warning: Short title not defined.
+Class apa7 Warning: Course title not defined.
 
 
-Class apa7 Warning: Abstract not defined.
+Class apa7 Warning: Professor not defined.
 
-Class apa7 Info: Keywords not defined on input line 175.
+
+Class apa7 Warning: Due date not defined.
+
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1271,12 +1212,12 @@ l.175 \maketitle
               
 
 Here is how much of LuaTeX's memory you used:
- 33077 strings out of 476290
+ 33067 strings out of 476290
  125086,1373583 words of node,token memory allocated
- 1878 words of node memory still in use:
-   11 hlist, 1 vlist, 2 rule, 14 disc, 3 local_par, 3 dir, 32 glue, 8 kern, 6 penalty, 1 margin_kern, 90 glyph, 24 attribute, 90 glue_spec, 24 attribute_list, 2 temp, 1 if_stack, 2 write, 1 pdf_dest, 4 pdf_colorstack nodes
-   avail lists: 1:3,2:11,3:1,4:18,5:7,7:8,9:5,10:18
- 54547 multiletter control sequences out of 65536+600000
- 58 fonts using 12240951 bytes
- 108i,4n,122p,1008b,279s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 1823 words of node memory still in use:
+   11 hlist, 1 vlist, 3 rule, 14 disc, 3 local_par, 1 dir, 34 glue, 8 kern, 5 penalty, 89 glyph, 22 attribute, 83 glue_spec, 22 attribute_list, 1 if_stack, 1 write, 1 pdf_dest, 3 pdf_colorstack nodes
+   avail lists: 1:2,2:8,3:1,4:10,5:4,7:2,8:1,9:3,10:9
+ 54571 multiletter control sequences out of 65536+600000
+ 48 fonts using 11484983 bytes
+ 108i,2n,122p,1008b,279s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

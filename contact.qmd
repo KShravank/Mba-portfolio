@@ -1,0 +1,34 @@
+---
+title: "Contact"
+page-layout: full
+---
+
+## Get in Touch
+
+Thank you for taking the time to explore my MBA portfolio.  
+I’m always open to opportunities in **business analytics, operations, finance, and performance reporting**, as well as conversations about AI and its role in decision-making.
+
+Please feel free to reach out through any of the channels below:
+
+###  Email  
+<a href="mailto:kilaparthishravan@gmail.com">kilaparthishravan@gmail.com</a>
+
+###  LinkedIn  
+<a href="https://www.linkedin.com/in/shravan-kumar-9b1096141/" target="_blank">My LinkedIn Profile</a>
+
+###  Resume  
+[Download Resume](Shravan_Kilaparthi_Resume.pdf){.btn .btn-primary target="_blank"}
+
+---
+
+## Availability
+
+I am based in **Vancouver, BC**, and open to:
+
+- Part-time roles  
+- Internships and co-ops  
+- Industry projects  
+- Networking opportunities  
+- Professional collaborations  
+
+Feel free to connect — I usually reply within 24 hours.

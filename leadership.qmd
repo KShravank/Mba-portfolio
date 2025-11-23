@@ -1,0 +1,63 @@
+---
+title: "Leadership & Growth"
+page-layout: full
+---
+
+## Leadership Philosophy
+
+My leadership approach is shaped by **collaboration, clarity, and data-informed decision-making**.  
+I believe that effective leadership—especially in analytics and operations—comes from helping teams understand the problem clearly, aligning expectations early, and communicating insights in a way that people can act on.  
+This reflects elements of **servant leadership** (supporting others’ success), **situational leadership** (adapting to team needs), and **evidence-based leadership** (using data to guide decisions).
+
+---
+
+## Leadership in Professional Settings
+
+### Cross-Functional Coordination as a Business Analyst (VMware)
+
+In my Business Analyst role, leadership meant **driving clarity in fast-moving environments**:
+
+- Served as a **bridge between project management, account management, and finance**, ensuring consistent and reliable numbers across teams.  
+- Took ownership of **QBR timelines**, coordinating data extraction, KPI validation, performance commentary, and slide preparation before leadership and client review calls.  
+- Exercised analytical leadership by escalating risks early when data reflected **declining usage, rising refunds, performance bottlenecks, or renewal risks**, enabling teams to take timely corrective action.  
+- Demonstrated **stakeholder leadership** by translating complex operational patterns into simple, decision-ready insights.
+
+This experience taught me to lead without formal authority—by influencing through data, structure, reliability, and communication.
+
+---
+
+## Leadership in Academic Projects
+
+### Team Leadership in the MBA Program
+
+Working with multicultural teams at UCW helped strengthen my interpersonal and collaborative leadership:
+
+- Often stepped into the role of **structured problem-solver**, helping teams define the scope, outline deliverables, and sequence the work.  
+- Took responsibility for organizing **data, research, and slides** so the final presentation told a cohesive and professional story.  
+- Practiced inclusive leadership by encouraging quieter team members to contribute, summarizing discussions, and checking for shared understanding.  
+- Used conflict-free decision-making by focusing the team on **criteria, evidence, and clarity**, rather than personal opinions.
+
+These experiences reinforced the value of empathy, active listening, and cultural awareness in team settings.
+
+---
+
+## Leading with Data and Emerging Technologies
+
+I view modern leadership as the ability to combine **analytics, technology, and human judgment**:
+
+- Learned to use data not only for reporting but to **guide decisions**, identify risks, and shape conversations.  
+- Working with LLMs in academic assignments strengthened my ability to **evaluate AI outputs critically**, verify facts, and differentiate between computational accuracy and real-world practicality.  
+- Developed the habit of explaining insights in terms of **trade-offs**, assumptions, and limitations—an essential part of responsible analytical leadership.
+
+This mindset supports my long-term goal: becoming a leader who uses analytics and AI ethically, transparently, and effectively.
+
+---
+
+## Growth Priorities as a Developing Leader
+
+- Strengthening skills in **visual storytelling**—turning complex operational data into clear narratives through dashboards and executive summaries.  
+- Gaining deeper exposure to **supply chain and operational environments in Canada**, building on my foundation in analytics and account support.  
+- Continuing to develop skills in **ethical AI use**, especially fairness, transparency, and inclusivity in data-driven decisions.  
+- Building confidence in **strategic communication**, ensuring that insights not only inform but drive meaningful action among managers and clients.
+
+---

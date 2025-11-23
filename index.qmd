@@ -2,70 +2,56 @@
 title: "MBA Portfolio"
 page-layout: full
 ---
-```{=html}
-<div class="hero">
-  <div>
-    <h1>Shravan Kumar Kilaparthi</h1>
-    <p>MBA Candidate — Finance & Accounting · University Canada West</p>
-    <p>Vancouver, BC · 
-      <a href="mailto:Kilaparthishravn@gmail.com">Kilaparthishravn@gmail.com</a> · 
-      <a href="https://www.linkedin.com/in/shravan-kumar-9b1096141/">LinkedIn</a>
-    </p>
 
-    <!-- Resume & Contact Buttons -->
-    <div class="button-row">
-      <a class="btn" href="Shravan_Kilaparthi_Resume.pdf" target="_blank">📄 Download Résumé</a>
-      <a class="btn secondary" href="mailto:Kilaparthishravn@gmail.com">✉️ Contact Me</a>
-    </div>
-  </div>
+::: {#hero}
 
-  <div>
-    <img src="headshot.jpg" alt="Professional headshot of Shravan Kumar Kilaparthi" class="headshot" loading="lazy">
-  </div>
-</div>
-```
+# Shravan Kumar Kilaparthi
 
-## About
+MBA Candidate – Finance & Accounting · Business Analyst  
+Vancouver, BC · [kilaparthishravan@gmail.com](mailto:kilaparthishravan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shravan-kumar-9b1096141/)
 
-Numbers don’t have to be chaotic. I design calm, reliable finance workflows—clear reconciliations, tidy documentation, and reporting you can trust. I’m an MBA candidate at UCW with hands-on experience in busy finance teams, and I enjoy the mix of analysis, operations, and practical problem-solving.
+[**Download Résumé**](Shravan_Kilaparthi_Resume.pdf){.btn .btn-primary target="_blank"}  
+[**Contact Me**](contact.html){.btn .btn-secondary}
 
-Right now I’m looking for roles where I can keep the books clean, the process simple, and the team moving.
+<img src="headshot.jpg" class="headshot" alt="Professional headshot of Shravan Kumar Kilaparthi">
 
-## Education
-**MBA (Finance & Accounting)** — University Canada West, Vancouver *(Expected 2026)*  
-**BBM (Accounting & Finance)** — Andhra University, India
+:::
 
-## Experience Highlights
-**Business Analyst — VMware India** *(2022–2024)*  
-- Performed end-to-end bank reconciliations and variance analysis supporting accurate financial reporting.  
-- Partnered with finance/legal to streamline documentation workflows and audit compliance.
+---
 
-**After-Sales Analyst — Urban Ladder** *(2018–2020)*  
-- Processed invoice corrections/refunds; maintained 99%+ accuracy in financial documentation.  
-- Managed vendor coordination and improved turnaround times.
+## About Me
 
-**Analyst — Genpact** *(2016–2018)*  
-- Processed high-volume financial transactions and ensured regulatory compliance.  
-- Supported KYC verification and onboarding.
+I am an MBA candidate at University Canada West with experience as a **Business Analyst** supporting account management and project management teams. In my previous role, I worked closely with global clients to build **dashboards**, support **quarterly business reviews (QBRs)**, and prepare **billing and reconciliation reports** that gave stakeholders a clear view of performance and revenue.
 
-## Projects
-**Finance Process Optimization (Academic/Practicum)** — mapped AP/AR workflow, defined controls, and created KPI dashboard for reconciliation timing and exception rates.  
-**Quarto Reporting** — built clean, reproducible PDF/HTML reports with citations and appendices.
+I enjoy turning messy operational data into simple stories that decision-makers can act on. My work usually sits at the intersection of **analytics, operations, and client communication** – understanding what leaders need to see, structuring the numbers, and presenting insights clearly.
 
-## Key Skills
-**Accounting & Finance:** Bank Reconciliation, AP, Financial Reporting  
-**Tools:** SAP/Oracle ERP, Advanced Excel, Google Workspace  
-**Professional:** Communication, Stakeholder Management, Process Improvement
+Since moving to Canada, I have been expanding my skills in **AI applications, data visualization, and digital workflows** so I can contribute to data-informed, technology-enabled finance and operations teams.
 
-## Contact
-- Email: [Kilaparthishravn@gmail.com](mailto:Kilaparthishravn@gmail.com)
-- LinkedIn: <https://www.linkedin.com/in/shravan-kumar-9b1096141/>
-<p><a href="appendix-llm.html">Appendix — LLM Draft & Commentary</a></p>
+---
 
-<footer class="footer">
-  © {{< meta author >}} — <span id="year"></span>
-</footer>
+## What I Do Well
 
-<script>
-  document.getElementById('year').textContent = new Date().getFullYear();
-</script>
+- **Analytics & Reporting:** QBR summaries, KPI dashboards, performance snapshots, and Excel-based commentary.  
+- **Partnering with PM / AM Teams:** aligning reports with client expectations and supporting meeting preparation.  
+- **Billing & Reconciliation:** preparing billing files, checking variances, reconciling data across systems.  
+- **Process Thinking:** understanding data flows across sales, delivery, and finance teams.
+
+---
+
+## Highlights & Website Sections
+
+- **Resume:** education, roles, and skills.  
+- **Projects:** academic + professional case studies.  
+- **Skills:** technical, business, and interpersonal competencies.  
+- **Leadership:** teamwork, decisions, and professional growth.  
+- **Contact:** email + links.
+
+---
+
+## Current Focus
+
+- Using **AI and analytics** to improve forecasting, reporting, and operations.  
+- Strengthening **visual communication** through dashboards and Excel.  
+- Gaining more **Canadian work experience** in analysis + operations roles.
+
+If your team values clear thinking, data literacy, and reliable execution — I’d love to connect.

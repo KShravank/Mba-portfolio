@@ -1,0 +1,39 @@
+---
+title: "Skills & Tools"
+page-layout: full
+---
+
+## Technical & Analytical Skills
+
+- **Excel (Advanced):** Lookups, pivot tables, dashboards, charts, structured references, and data cleaning.  
+- **Google Sheets:** Collaborative reporting, shared dashboards, and cross-team reviews.  
+- **Data Analysis:** KPI tracking, variance analysis, performance trends, and forecasting support.  
+- **AI & Automation Tools:** Prompt engineering, LLM-assisted drafting (with human revision), and Quarto for reproducible reporting.  
+- **Quarto & GitHub:** Building multi-page professional sites, documentation, and version control.
+
+---
+
+## Business, Billing & Operations Skills
+
+- **QBR Reporting:** Summaries of revenue, contracts, renewals, usage, refunds, and operational health.  
+- **Account & Project Management Support:** Coordinating with PMs, AMs, and finance to align reports with client needs.  
+- **Billing & Reconciliation:** Preparing structured data summaries, identifying inconsistencies, and supporting cross-system data validation.  
+- **Operational Coordination:** Removing bottlenecks, resolving delivery issues, and supporting after-sales performance.
+
+---
+
+## Communication & Interpersonal Skills
+
+- **Professional Writing:** Clear reports, structured email communication, and concise leadership summaries.  
+- **Cross-Functional Collaboration:** Working closely with project managers, account teams, finance, and operations groups.  
+- **Analytical Problem-Solving:** Breaking down messy data into usable insights for business decisions.  
+- **Stakeholder Communication:** Presenting insights effectively in QBRs, client-facing decks, and team meetings.
+
+---
+
+## In Progress / Learning
+
+- Building deeper skills in **AI for Business**, including automation, evaluation, and ethical use of LLMs.  
+- Strengthening data visualization using **Power BI** (in progress).  
+- Exploring **advanced Excel modelling**, KPI frameworks, and supply chain analytics.  
+- Practicing **Quarto development**, including custom CSS and structured documentation.

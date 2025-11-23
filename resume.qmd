@@ -1,0 +1,105 @@
+---
+title: "Resume"
+page-layout: full
+---
+
+## Professional Summary
+
+MBA candidate at **University Canada West** with experience as a **Business Analyst** supporting enterprise accounts in data-driven reporting, QBR preparation, and cross-functional coordination.  
+Skilled in **Excel dashboards, KPI reporting, variance analysis, and structured communication** with project managers, account managers, and finance teams.  
+Currently expanding capabilities in **AI for business**, **digital workflows**, and **supply chain analytics**.
+
+---
+
+## Education
+
+**Master of Business Administration (MBA)** – *Finance & Accounting*  
+University Canada West, Vancouver  
+*Expected 2026*
+
+**Bachelor of Business Management (BBM)** – *Accounting & Finance*  
+Andhra University, India
+
+---
+
+## Professional Experience
+
+### **Business Analyst — VMware India**  
+*2022 – 2024*  
+**Enterprise Account Support | QBR Reporting | Analytics & Operations**
+
+- Prepared **Quarterly Business Review (QBR)** decks summarizing revenue, renewals, usage metrics, refunds, risk items, and performance commentary for enterprise clients.  
+- Designed and maintained **Excel dashboards** for project and account managers to track KPIs, account health, performance trends, and operational risks.  
+- Collaborated with **project management, account management, and finance teams** to reconcile data across multiple systems into a consistent reporting view.  
+- Conducted **variance analysis** to identify drivers behind changes in revenue, usage, and financial performance.  
+- Supported **forecasting and account health analysis** using structured data summaries for leadership and client meetings.
+
+---
+
+### **Operations Analyst — Urban Ladder (After-Sales / Support)**  
+*2018 – 2020*  
+**Customer Operations | Reporting | Coordination**
+
+- Monitored **post-sales operations KPIs**, including delivery SLAs, refunds, escalations, and service tickets.  
+- Coordinated with operations teams to resolve delivery delays and remove bottlenecks affecting customer experience.  
+- Prepared **weekly performance dashboards** used by operational leadership for planning and performance tracking.  
+- Contributed to workflow improvements in customer support and after-sales operations.
+
+---
+
+## Selected Academic & Applied Projects
+
+### **AI in Supply Chain Evaluation (BUSI 654)**  
+- Designed and evaluated advanced supply chain questions for GPT-4, Claude, Gemini, and LLaMA.  
+- Compared AI-generated responses with human responses using a structured scoring rubric.  
+- Built an **Excel analysis dashboard** comparing clarity, accuracy, and ethical reasoning.  
+- Highlighted findings on AI reliability, risks, and decision-making implications in operations.
+
+### **Multi-Page MBA Portfolio Website (Quarto & GitHub Pages)**  
+- Designed and developed this multi-page portfolio website using Quarto and custom CSS.  
+- Integrated résumé download, project pages, leadership page, and LLM appendix.  
+- Used LLMs for brainstorming but applied **full human editing** for accuracy and academic integrity.
+
+### **Operations & Analytics Coursework**  
+- Completed case studies in *forecasting*, *inventory decisions*, *bullwhip analysis*, and *performance dashboards*.  
+- Applied analytics and Excel techniques to support data-based decision making.
+
+---
+
+## Skills
+
+### **Data & Analytics**
+- Advanced Excel (lookup functions, pivot tables, charts, dashboards)  
+- Google Sheets (collaboration & reporting)  
+- Basic SQL  
+- Quarto & Markdown (reproducible reporting)
+
+### **Reporting & Visualization**
+- QBR reporting  
+- KPI dashboards  
+- Executive summaries in PowerPoint  
+
+### **Business & Operations**
+- Account management support  
+- Variance and performance reporting  
+- After-sales operations  
+- Operations and financial analysis  
+
+### **Soft Skills**
+- Clear written communication  
+- Stakeholder coordination  
+- Analytical problem-solving  
+- Adaptability and continuous learning  
+
+---
+
+## Certifications & Training
+
+- Coursework in **data analytics**, **Excel**, and **AI in business** (Udemy) 
+- In-progress: **Power BI** and **Applied AI tools** for business analysis  
+
+---
+
+## Download Résumé
+
+[Download PDF Résumé](Shravan_Kilaparthi_Resume.pdf){.btn .btn-primary target="_blank"}

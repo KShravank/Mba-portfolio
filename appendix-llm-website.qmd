@@ -1,0 +1,150 @@
+---
+title: "Appendix: LLM Drafts and Revision Notes"
+page-layout: full
+---
+
+# Appendix A — LLM-Generated Drafts
+
+The following content includes *unedited* drafts generated using ChatGPT during the brainstorming stage of Assignment 3. These drafts were **not** used verbatim in my final website.  
+Instead, I critically reviewed, fact-checked, and revised each section to reflect my real experience and maintain academic integrity.
+
+---
+
+## A1. Initial LLM Draft for Website Structure
+
+**Prompt Used:**  
+“Generate a multi-page MBA portfolio website outline for a Quarto project. Include Home, Resume, Projects, Skills, Leadership, and Contact pages.”
+
+**LLM Output (Raw):**
+
+- Home/About section with biography and links  
+- Resume page with education, professional experience, and skills  
+- Projects page with academic and professional project summaries  
+- Skills page with technical skills, soft skills, and tools  
+- Leadership page with leadership philosophy and teamwork examples  
+- Contact page with email, LinkedIn, and résumé download link  
+- Appendix page with LLM drafts and commentary
+
+(This output was used only to determine *page structure*. The actual content on my website was fully rewritten.)
+
+---
+
+## A2. Initial LLM Draft for Home Page
+
+**Prompt Used:**  
+“Create an About Me section for an MBA student portfolio website.”
+
+**LLM Output (Raw Excerpt):**
+
+- MBA student passionate about business strategy, leadership, and technology.  
+- Interested in digital transformation, innovation, and data-driven decision making.  
+- Enjoys teamwork and contributes to collaborative learning environments.
+
+**Revision Notes:**  
+This output did not match my real background and was too generic. I replaced it with an authentic narrative based on my actual experience as a Business Analyst (QBRs, dashboards, reconciliation, cross-functional coordination).
+
+---
+
+## A3. Initial LLM Draft for Leadership Page
+
+**Prompt Used:**  
+“Write a leadership philosophy section for an MBA portfolio.”
+
+**LLM Output (Raw Excerpt):**
+
+- Leadership is about vision, communication, and empathy.  
+- Good leaders motivate teams, foster collaboration, and drive performance.  
+- Leadership requires adaptability, active listening, and continuous improvement.
+
+**Revision Notes:**  
+I rewrote the section to reflect my real leadership experience:  
+- Working across project, account, and finance teams  
+- Structured problem-solving  
+- Leading with data clarity  
+- Multicultural group work experience  
+- Applying servant and situational leadership concepts from class
+
+---
+
+## A4. Initial LLM Draft for Skills Section
+
+**Prompt Used:**  
+“List skills for an MBA Business Analyst portfolio website.”
+
+**LLM Output (Raw Excerpt):**
+
+- Data analysis  
+- Critical thinking  
+- Communication  
+- Project management  
+- Leadership  
+- Excel  
+- SQL  
+- Data visualization  
+
+**Revision Notes:**  
+The LLM skills did not reflect my real strengths.  
+I replaced them with accurate, experience-based skills such as:  
+- QBR reporting  
+- KPI dashboards  
+- Billing and reconciliation  
+- Cross-functional coordination  
+- Excel (advanced)  
+- AI-assisted drafting + human revision
+
+---
+
+# Appendix B — Summary of Revisions & Academic Integrity Notes
+
+## B1. How LLMs Were Used
+
+I used LLMs (ChatGPT) to:
+
+- brainstorm ideas  
+- generate draft outlines  
+- produce first-pass text for some sections  
+- assist with formatting and structure  
+
+LLMs were **not** used to produce final content.
+
+## B2. How I Ensured Accuracy
+
+All final content was:
+
+- fact-checked  
+- rewritten in my own words  
+- aligned to my actual work experience (VMware, Urban Ladder, etc.)  
+- revised to match MBA-level expectations  
+- reviewed for clarity and professionalism  
+
+## B3. Ethical Use of AI
+
+I followed academic honesty guidelines:
+
+- No copy-pasting of unedited LLM text  
+- All LLM drafts are disclosed in this appendix  
+- All final text is original and written by me  
+- I corrected inaccuracies and removed generic statements  
+
+## B4. Reflection on LLM Limitations
+
+Through this project, I learned that LLMs:
+
+- generate helpful structure, but lack contextual precision  
+- can produce generic or inaccurate descriptions of my experience  
+- require human judgment for accuracy, tone, and meaning  
+- work best as brainstorming tools, not content creators  
+
+This aligns with course teachings on responsible AI use.
+
+---
+
+# Appendix C — Version Control & Technical Notes
+
+- Website built with **Quarto**  
+- Hosted via **GitHub Pages**  
+- Custom CSS applied for layout improvements  
+- All `.qmd` files manually edited  
+- Debugged YAML, navigation, and case sensitivity issues  
+- Rendered using `quarto render` and `quarto preview`  
+- All content files verified to match the navbar structure  
